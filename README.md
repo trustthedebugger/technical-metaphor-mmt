@@ -21,6 +21,7 @@ the image directly, and starts from a text-only first training stage on unused s
 | `analysis/` | Scripts that rebuild every table, figure and significance test in the paper from `results/` |
 | `commute_pairs.py` | Paired CoMMuTE analysis (pairs right / wrong with both images, sign test, image effect) |
 | `figures/` | Written by `analysis/run_all.sh` |
+| `supplementary/` | The supplementary material of the paper (selection rules, all tables S1–S6), as PDF and Word |
 
 ## Systems
 
