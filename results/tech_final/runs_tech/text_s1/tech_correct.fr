@@ -1,0 +1,102 @@
+La corbeille est trop grande.
+La corbeille est trop grande.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au tard. @info
+Le plantage s'est produit au tard. @info
+Il s'est arrêté de nouveau cette matinée.
+Il s'est arrêté de nouveau cette matinée.
+La clé est cassée.
+La clé est cassée.
+La puce est très fine.
+La puce est très fine.
+Appliquer le correctif ici.
+Appliquer le correctif ici.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été endommagé.
+Le pare-feu a été endommagé.
+Le Web est énorme.
+Le Web est énorme.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifie le flux.
+Vérifie le flux.
+Le thread a été tronqué.
+Le thread a été tronqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est caché.
+Le centre est caché.
+La base est endommagée.
+La base est endommagée.
+Le temps de poignée de main a été long.
+Le temps de poignée de main a été long.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifie la copie (dump)
+Vérifie la copie (dump)
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyer sur l'onglet
+Appuyer sur l'onglet
+Vérifie le journal.
+Vérifie le journal.
+Le chariot est plein.
+Le chariot est plein.
+Le spool est vide.
+Le spool est vide.
+Le cache est ouvert.
+Le cache est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparus.
+Les morceaux de pain ont disparus.
+La benne à ordures est occupée.
+La benne à ordures est occupée.
+La cage est brisée.
+La cage est brisée.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le plateau est trop petit.
+La touche est courbée.
+La touche est courbée.
+La ligne est trop courte.
+La ligne est trop courte.
+Le jet d'eau est cassé.
+Le jet d'eau est cassé.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le parachute.
+Impossible de trouver le parachute.
+Effacer le buste.
+Effacer le buste.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

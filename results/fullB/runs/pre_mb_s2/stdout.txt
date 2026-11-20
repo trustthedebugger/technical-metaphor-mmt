@@ -1,0 +1,81 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/519 [00:00<?, ?it/s]Loading weights: 100%|██████████| 519/519 [00:00<00:00, 8898.22it/s]
+/kaggle/working/mmt.py:1104: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler(enabled=device == "cuda")
+[transformers] The following generation flags are not valid and may be ignored: ['early_stopping']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+[transformers] Both `max_new_tokens` (=128) and `max_length`(=200) seem to have been set. `max_new_tokens` will take precedence. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+system=pre_mb seed=2 trainable params=354.8M device=cuda
+{'mt': 5.1152, 'total': 5.1152, 'step': 200, 'epoch': 1, 'min': 1.2}
+{'mt': 3.3357, 'total': 3.3357, 'step': 400, 'epoch': 1, 'min': 2.4}
+{'mt': 2.7288, 'total': 2.7288, 'step': 600, 'epoch': 1, 'min': 3.6}
+{'mt': 2.616, 'total': 2.616, 'step': 800, 'epoch': 1, 'min': 4.8}
+{'mt': 2.5552, 'total': 2.5552, 'step': 1000, 'epoch': 1, 'min': 6.0}
+{'mt': 2.6642, 'total': 2.6642, 'step': 1200, 'epoch': 1, 'min': 7.2}
+{'mt': 2.7466, 'total': 2.7466, 'step': 1400, 'epoch': 1, 'min': 8.4}
+{'mt': 2.7427, 'total': 2.7427, 'step': 1600, 'epoch': 1, 'min': 9.6}
+{'mt': 2.356, 'total': 2.356, 'step': 1800, 'epoch': 1, 'min': 10.8}
+{'mt': 2.6832, 'total': 2.6832, 'step': 2000, 'epoch': 1, 'min': 12.0}
+{'mt': 2.3876, 'total': 2.3876, 'step': 2200, 'epoch': 1, 'min': 13.2}
+{'mt': 2.913, 'total': 2.913, 'step': 2400, 'epoch': 1, 'min': 14.5}
+{'mt': 2.429, 'total': 2.429, 'step': 2600, 'epoch': 1, 'min': 15.7}
+{'mt': 2.3526, 'total': 2.3526, 'step': 2800, 'epoch': 1, 'min': 16.9}
+{'mt': 2.6223, 'total': 2.6223, 'step': 3000, 'epoch': 1, 'min': 18.1}
+{'mt': 2.3344, 'total': 2.3344, 'step': 3200, 'epoch': 1, 'min': 19.3}
+{'mt': 2.148, 'total': 2.148, 'step': 3400, 'epoch': 1, 'min': 20.5}
+{'mt': 2.3403, 'total': 2.3403, 'step': 3600, 'epoch': 1, 'min': 21.7}
+{'mt': 2.4937, 'total': 2.4937, 'step': 3800, 'epoch': 1, 'min': 22.9}
+{'mt': 2.1922, 'total': 2.1922, 'step': 4000, 'epoch': 1, 'min': 24.1}
+{'epoch': 1, 'val': {'bleu': 50.31, 'chrf': 69.1}, 'vision': False, 'min': 25.9}
+{'mt': 2.2536, 'total': 2.2536, 'step': 4200, 'epoch': 2, 'min': 26.2}
+{'mt': 2.2832, 'total': 2.2832, 'step': 4400, 'epoch': 2, 'min': 27.4}
+{'mt': 2.1348, 'total': 2.1348, 'step': 4600, 'epoch': 2, 'min': 28.6}
+{'mt': 2.1084, 'total': 2.1084, 'step': 4800, 'epoch': 2, 'min': 29.8}
+{'mt': 2.1859, 'total': 2.1859, 'step': 5000, 'epoch': 2, 'min': 31.0}
+{'mt': 2.1394, 'total': 2.1394, 'step': 5200, 'epoch': 2, 'min': 32.2}
+{'mt': 2.1727, 'total': 2.1727, 'step': 5400, 'epoch': 2, 'min': 33.4}
+{'mt': 2.0161, 'total': 2.0161, 'step': 5600, 'epoch': 2, 'min': 34.6}
+{'mt': 2.1017, 'total': 2.1017, 'step': 5800, 'epoch': 2, 'min': 35.8}
+{'mt': 2.1748, 'total': 2.1748, 'step': 6000, 'epoch': 2, 'min': 37.0}
+{'mt': 2.141, 'total': 2.141, 'step': 6200, 'epoch': 2, 'min': 38.2}
+{'mt': 2.2325, 'total': 2.2325, 'step': 6400, 'epoch': 2, 'min': 39.4}
+{'mt': 2.2372, 'total': 2.2372, 'step': 6600, 'epoch': 2, 'min': 40.6}
+{'mt': 2.2524, 'total': 2.2524, 'step': 6800, 'epoch': 2, 'min': 41.8}
+{'mt': 2.1945, 'total': 2.1945, 'step': 7000, 'epoch': 2, 'min': 43.0}
+{'mt': 2.3649, 'total': 2.3649, 'step': 7200, 'epoch': 2, 'min': 44.3}
+{'mt': 2.1292, 'total': 2.1292, 'step': 7400, 'epoch': 2, 'min': 45.5}
+{'mt': 2.4003, 'total': 2.4003, 'step': 7600, 'epoch': 2, 'min': 46.7}
+{'mt': 2.1651, 'total': 2.1651, 'step': 7800, 'epoch': 2, 'min': 47.9}
+{'mt': 2.3835, 'total': 2.3835, 'step': 8000, 'epoch': 2, 'min': 49.1}
+{'mt': 2.3034, 'total': 2.3034, 'step': 8200, 'epoch': 2, 'min': 50.3}
+{'epoch': 2, 'val': {'bleu': 53.06, 'chrf': 70.82}, 'vision': False, 'min': 51.3}

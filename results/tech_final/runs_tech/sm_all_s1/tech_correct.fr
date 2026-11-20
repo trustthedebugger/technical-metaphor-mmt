@@ -1,0 +1,102 @@
+Le couloir à bouteilles est trop étroit.
+Le couloir à bouteille est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage a eu lieu au crépuscule. @info
+Le plantage a eu lieu au crépuscule.
+Il pleut à nouveau cette matinée.
+Il pleut à nouveau cette matinée.
+La touche est cassée.
+La clé est cassée.
+Le chips est très mince.
+Le chips est très mince.
+Appliquer le correctif la nuit.
+Appliquer le correctif la nuit.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été détruit.
+Le pare-feu est corrompu.
+Le Web est immense.
+Le Web est immense.
+Afficher le flux.
+regarde le flux.
+Vérifier le flux.
+Vérifier le flux.
+Le fil de discussion est bloqué.
+Le fil de discussion est perdu.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le câble est cassé.
+Le câble est cassé.
+Le doigt du doigt est caché.
+Le doigt du doigt est blessé.
+Le coup de main a pris un long temps.
+Le match de mains a mis un long temps.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est corrompue.
+La socket est corrompue.
+L'assistant vous guidera.
+L'assistant vous guide.
+Le noyau est corrompu.
+Le noyau est détruit.
+Vérifie le journal du copieur.
+Vérifier la corbeille.
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Tire l'onglet.
+Tire l'onglet.
+Vérifier le journal.
+Vérifie le journal.
+Lerack est plein.
+Le chariot est plein.
+Le dossier spool est vide.
+Le spool est vide.
+Le pare-feu est ouvert.
+La porte arrière est ouverte.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est corrompu.
+Le cadre est corrompu.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est détruite.
+La grille est détruite.
+Les blocs de béton ont disparu.
+Les pâtisseries ont disparues.
+Le collecteur de déchets est occupé.
+Le collecteur de ordures est occupé.
+Le cran est caché.
+Le crâne est cassé.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le plateau est trop petit.
+Le noyau est courbé.
+Le pin est courbé.
+Le chemin est trop court.
+Le chemin est trop petit.
+Le wagon est cassé.
+Le wafer est caché.
+Le dé est cracké.
+Le dé est cracké.
+Je n'arrive pas à trouver le saut.
+Je ne trouve pas le saut.
+Effacer la jambe.
+Effacer la jambe.
+Le bac est vide.
+Le bac est vide.
+Le lavabo est sale.
+Le lavabo est sale.

@@ -1,0 +1,102 @@
+Le raccourci est trop grand.
+Le raccourci est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au crépuscule.
+Le plantage s'est produit au crépuscule.
+C'est arrêté à nouveau ce matin.
+L'allumage s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La touche est cassée.
+La puce est très petite.
+La puce est très fine.
+Appliquer le correctif maintenant.
+Appliquer le correctif ce soir.
+Ouvre le terminal.
+Ouvre le terminal.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est énorme.
+Le Web est énorme.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été attaché.
+Le thread a été attaché.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le curseur est cassé.
+Le curseur est cassé.
+Le squelette est endommagé.
+Le squelette est endommagé.
+La poignée de main est longue.
+La poignée de main est longue.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez le cache.
+Vérifiez le cache.
+Cochez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Retourne à l'onglet.
+Retourne à l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le stand est plein.
+Le stand est plein.
+Le spool est vide.
+Le spool est vide.
+L'interrupteur est ouvert.
+La barre d'outils est ouverte.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparu.
+Les morceaux de pain ont disparu.
+Le gestionnaire d'ordures est occupé.
+La caisse des ordures est occupée.
+La poitrine est cassée.
+La poitrine est cassée.
+Le quai est vide.
+Le quai est vide.
+Le pain d'épice est trop petit.
+Le pain d'épice est trop petit.
+La touche est courbée.
+La socket est courbée.
+La cible est trop courte.
+La cible est trop courte.
+La barbe est cassée.
+La barbe est cassée.
+Le dé est cassé.
+Le dé est cassé.
+Impossible de trouver le parachute.
+Impossible de trouver le parachute.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

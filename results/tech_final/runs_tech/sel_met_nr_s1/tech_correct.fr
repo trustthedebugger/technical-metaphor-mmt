@@ -1,0 +1,102 @@
+La corbeille est trop grande.
+Le cordon est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au crépuscule.
+Le plantage s'est produit au crépuscule.
+Il s'est arrêté de nouveau cette matinée.
+Il s'est arrêté de nouveau cette matinée.
+La clé est cassée.
+La clé est cassée.
+Le morceau est très mince.
+Le morceau est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif demain.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu a été endommagé.
+Le Web est énorme.
+Le Web est énorme.
+Afficher le ruisseau.
+Afficher le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été tronqué.
+Le thread a été tronqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est cassé.
+Le centre est cassé.
+La base est détruite.
+La base est endommagée.
+Le temps de saisie de la main a été long.
+Le temps de saisie de la main a été long.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est détruit.
+Le noyau est détruit.
+Vérifiez le dossier.
+Vérifiez le dossier.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Afficher l'onglet.
+Afficher l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le stand est plein.
+Le stand est plein.
+Le spool est vide.
+Le spool est vide.
+La barre d'avertissement est ouverte.
+Le passage piéton est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu la crosse.
+J'ai perdu la branche.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparus.
+Les morceaux de pain ont disparus.
+Le collectionneur d'ordures est occupé.
+Le collectionneur d'ordures est occupé.
+La cage est cassée.
+La cage est cassée.
+Le quai est vide.
+Le quai est vide.
+Le disque est trop petit.
+Le disque est trop petit.
+La quille est courbée.
+La quille est courbée.
+Le long de la piste est trop court.
+Le long de la piste est trop court.
+La bière est cassée.
+Le beurre est cassé.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le parachute.
+Impossible de trouver le parachute.
+Effacer le bogue.
+Effacer le corbeille.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

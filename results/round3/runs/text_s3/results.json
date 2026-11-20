@@ -1,0 +1,14 @@
+{
+  "best_val_bleu": 63.95,
+  "train_minutes": 111.7,
+  "trainable_params_M": 317.0,
+  "test2016_correct": {
+    "bleu": 66.78,
+    "chrf": 79.59
+  },
+  "commute_accuracy": 50.0,
+  "soft_test": {
+    "bleu": 43.75,
+    "chrf": 64.08
+  }
+}

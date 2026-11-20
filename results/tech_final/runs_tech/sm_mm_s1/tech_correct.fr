@@ -1,0 +1,102 @@
+Le corbeille est trop grand.
+Le corbeille est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au crépuscule.
+Le plantage s'est produit au crépuscule.
+Il s'est arrêté à cette matinée.
+Il s'agit de la première fois qu'il neige.
+La touche est cassée.
+La clé est manquante.
+Le chips est très mince.
+Le chips est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été détruit.
+Le pare-feu a été détruit.
+Le Web est énorme.
+Le Web est énorme.
+Afficher le flux.
+Afficher le flux.
+Vérifier le flux.
+Vérifier le flux.
+Le thread a été mis en pause.
+Le thread a été mis à jour.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+La socket est cassée.
+La socket est cassée.
+La base de données est manquante.
+La base de données est manquante.
+La prise de la main a été une longue.
+L'accélération a duré.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est manquante.
+La socket est cassée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est manquant.
+Le noyau est tombé.
+Vérifier la corbeille.
+Vérifier la corbeille.
+Copie le contenu du presse-papiers.
+Copie le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyer sur l'onglet.
+Appuyer sur l'onglet
+Vérifier le journal.
+Vérifiez le journal.
+La pile est pleine.
+Le chariot est plein.
+Le dossier spool est vide.
+Le spool est vide.
+L'authentification est ouverte.
+Le conducteur est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est manquant.
+Le cadre est manquant.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est manquante.
+La grille est manquante.
+Les morceaux de pain ont disparu.
+Les morceaux de pain ont disparu.
+Le dépôt de détritus est occupé.
+La benne à ordures est occupée.
+La socket est cassée.
+La caisse est cassée.
+Le quai est vide.
+Le quai est vide.
+Le plateau de travail est trop petit.
+Le plateau de travail est trop petit.
+La touche est courbée.
+La touche est courbée.
+La cible est trop petite.
+La route est trop longue.
+Le journal est manquant.
+Le bidon est brûlé.
+Le témoin est corrompu.
+Le déclenchement a échoué.
+Impossible de trouver le pilote.
+Impossible de trouver le chariot.
+Effacer le corbeille.
+Effacer le corbeille.
+Le plateau est vide.
+Le plateau est vide.
+Le lavabo est sale.
+L'évier est sale.

@@ -1,0 +1,1000 @@
+Aller à la source en saisissant son nom
+Modifier le système de fichiers de la partition.
+PostScript niveau 1
+Délai avant que la requête ne soit expirée. Par défaut, c'est 300 secondes.
+Service D-Bus CVS
+Filtrer la liste par noms de pays
+Le gestionnaire de serveurplication
+Les autres mots ont la connotation de ne se produire pas souvent.
+Afin d'utiliser Facebook pour communiquer avec vos amis, vous devez créer un nouveau compte à partir du site web : www.facebook.com.
+La signature est valable mais la validité du certificat est indéfinie.
+allemand ( depuis Tipptrainer)
+Afficher les informations sur la licence.
+jeudi est une journée de travail
+La valeur minimale est une limite de travail
+Applet du clavier LEDs
+Ne pas démarrer
+Cliquez pour remplir une région. Pour remplir une région disperse, utilisez un paramètre de схожité de couleurs autre que Exact.
+Cliquez avec le bouton suivant sur l'élément du haut pour qu'il soit mis en surbrillance.
+Centre de rotation Y
+Référence Pixbuf
+Pour définir les propriétés des couvertures, faites un clic droit sur l'une des couvertures et choisissez Définir les propriétés de fond pour ouvrir la boîte de dialogue Propriétés du fond.
+Amener la durée pour inclure tous les évènements@action: button
+Pour supprimer un compte, sélectionnez le bouton Supprimer. Il vous sera demandé de confirmer la suppression avant que le compte ne soit enfin supprimé.
+Certains niveaux nécessitent de dégager un mur de briques, y entrer en courant, ramasser de l'or et sortir en courant avant que les briques ne se terminent et vous échappent.
+Vous pouvez aussi convertir des devises en utilisant le clavier et l'opérateur in.
+Actions en attente
+URL du fichier dans lequel les anciens événements doivent être archivés
+Saisissez par exemple lp.
+Afficher le panneau d' aperçu
+Couleurs de priorité des fichiers
+Imprimer Ouvre une boîte de dialogue d'impression pour vous permettre d'imprimer l'icône actuelle.
+(Tous réagissent identiquement à la commande de menu)
+Cette règle n'a pas de attributs spécifiques. ToutChar est autorisé sous la forme d'une règle fille et est généralement utilisé pour détecter les combinaisons. Reportez -vous à la règle Int pour plus de référence.
+La couleur employée pour la ligne écliptique.
+Cette liste est cochée pour tous les messages sortants, du haut vers le bas, pour un jeu de caractères contenant tous les caractères requis.
+Fichier Tout enregistrer
+AVERAGE(12,5; 2) vaut 7,25
+Agrandit l'affichage de l'icône.
+Appuyez sur Message pour envoyer le document actuel. Pour choisir plus de documents à envoyer, appuyez sur Afficher tous les documentsnbsp; gt; gt;.
+La classe de périphérique de profil ICC
+Fait de JuK plus amusant pour des gens avec des terabytes de musique
+Aller au répertoire DIR
+Saisissez les données du certificat...
+Nouvelle couleur pour les notes.
+Désolé, les journaux ne fonctionnent pas encore.
+L'hôte proxy ne prend pas en charge SOCKS4
+Erreur à l'ouverture du fichier temporaire.
+prêt à démarrer la session de débogage...
+(Dés)active l'affichage du volet de marqueur de pliage dans la partie gauche de la vue. Voir Utilisation du dossier de code.
+Vous pouvez effectuer une recherche en arrière en appuyant sur Ctrl+ clic gauche dans le visionneur de documents. La ligne correspondante dans le code source TeX est alors mise en surbrillance.
+Capteur - bas
+Afficher les rendez-vous externes
+Impossible de démarrer le module de contrôle pour le format de date et d'heure.
+Créer une nouvelle catégorie
+Définir votre statut hors ligne vous déconnecte de tous vos comptes.
+Gravure du manuel de l' utilisateur
+Recto-verso entrelacement
+mat 3x3x1, 4 déplacements
+Définir ici l'ajustement du contraste de l'image.
+Vérifier les messages avec les outils anti-virus
+Les exemples ne fonctionnent pas
+Pour cacher à nouveau les détails, cliquez sur Détails et pour enfin fermer la boîte de dialogue de progression, cliquez sur Ok.
+Enregistrer le concept courant
+Modifier le nom de l'état...
+Type de bitmap inconnu
+@dcop(@dcopid, KommanderIf, enableWidget(QString, bool), Widget, true)
+Fournit la prise en charge générale de nombreux types de lecteurs multimédia.
+Si cette option est cochée, le texte de la cellule actuelle est souligné.
+Les diagrammes de cas d'utilisations montrent les relations et les dépendances entre un groupe de cas d'utilisations et les acteurs qui participent au processus.
+Spider (2 Suit)
+Le reste du paquet est placé ici après la distribution. Les cartes sont retournées une à une vers la défausse. Deux redistributions.
+Vous devez indiquer au moins un de --print-menu-id, --print-menu-name ou --highlight
+Sélectionnez l'objet à calculer
+Ouvre le carnet d'adresses
+Module d'annotation pour Nepomuk visant à rechercher dans DBpedia les ressources associées
+Activer les expressions rationnelles
+Cochez cette option pour utiliser sendmail comme transport de courriel. Le transport des courriels est utilisé pour la fonctionnalité du travail en groupe. Veuillez vérifier que sendmail est installé avant de choisir cette option.
+Sélectionnez le contact avec lequel vous voulez discuter, et dans le menu Sélectionnez Appel audio.
+Vous pouvez changer ici la couleur du texte que vous avez saisi dans la ligne étudiante.
+Le nombre de canaux dans la chaîne audio.
+Sélectionnez ou désélectionnez les options suivantes et fournissez le nom d'utilisateur pour le compte Google :
+Script python montrant l'utilisation des actions des outils
+Ajouter et modifier un compte Microsoft Exchange 2010 dans Evolution.
+Module de recherche Nepomuk
+Erreur de l'éditeur de clavier de KTouch
+Comment ajouter la prise en charge de SyncTex.
+Modifier les propriétés de l' élément
+Votre mot de passe dépasse les 8 caractères. Sur certains systèmes, cela peut causer des problèmes. Vous pouvez annuler le mot de passe à 8 caractères ou le laisser tel qu'il est.
+Retourne le nombre de périodes nécessaires pour qu'un investissement ait la valeur souhaitée.
+CONVERT(3; "lbm"; "kg") vaut 1.3608
+Le concept a été modifié. Vous devez l'enregistrer avant de passer dans une autre vue.
+Enregistrer la palette de couleurs sous
+Copyright (c) 2000 Geert Jansen
+bowlin AT mindspring DOT com
+Ce certificat a été vérifié pour les usages suivants :
+Démarrer minimisé dans la boîte à miniatures en parlant
+Activer cette option pour afficher les légendes de digiKam sous l'aperçu.
+En train de skier jusqu'à la fin de la bande...
+Le type de shader utilisé
+Place les lignes marquées dans une boîte ASCII.
+Fixer un contraste plus haut augmente la différence entre les couleurs sombres et les couleurs claires. Si l'image semble éclaboussée, essayez d'augmenter le contraste.
+Couleurs et polices
+Ordre croissant des artistes originaux
+Arrêter de répéter l'alarme après votre première connexion ou après la date de fin indiquée@info: whatsthis
+ckarai@users. sourceforge. net
+Téléchargement de l'album Magnatune. com
+Nouveau message à...
+Supérieur (peut être utilisé avec MultiChronopic)
+Modèle PyKDE4 - a besoin de PyKDE4
+Obtenir de nouveaux courriels au démarrage
+livres par pied cube
+Cet outil vous permet d'importer les informations et les données statistiques d'une piste à partir d'une autre application musicale.
+Module d'affichage à l'écran de Haze
+Saisissez un nom pour le script. Ceci n'est pas le nom du fichier, c'est juste une petite ligne de texte descriptif.
+Sélectionnez un fichier à lire
+En cochant cette option, vous obtiendrez un avertissement lorsque vous voyez une page avec des éléments chiffrés et non chiffrés.
+Le CD a été copié avec succès
+Déplacer vers le bas
+Vitesse / Charge
+Les Îles Andaman et Nicobar
+Pinar del Ríophilippines. kgm
+Copyright (c) Naba Kumar
+le retour du roi
+Impossible de lire BLOB
+Nombre de zones
+Réfléchissez avant de cliquer, un clic erroné peut détecter un possesseur.
+Retournement automatique de la carte mémoire
+L'identifiant Jabber dernier utilisé.
+Le contenu de la chaîne ne correspond pas à la facette du motif.
+Échec lors de la mise à jour des délégués :
+Ouvre un document dans n'importe quel format pris en charge. Le document original ne sera pas modifié.
+Si vous utilisez plusieurs calendriers d'alarmes, vous pouvez colorer les alarmes en fonction du calendrier auquel elles appartient, en sélectionnant une couleur de fond différente pour chaque calendrier.
+Inclure le titre de l' abstract
+Luis Passos Carvalho
+Colorer les métadonnées dans la liste
+Dessiner les lignes ammann
+Prise en charge de DPMS
+Base antarctique Davis, Vestfold Hills
+La construction du message a échoué.
+Avec ce bouton, vous pouvez sélectionner la couleur de l'image originale utilisée pour définir la température, l'équilibre des couleurs et le composant vert.
+Insérer un élément XML
+La couleur indiquant un morceau complet
+Correspond à tous les champs de la piste contenant les noms dave et matthews.
+Appliquer les couleurs personnalisées à
+Démarrer avec l'horloge en pause
+Rafał Mił ecki
+Vous pouvez aussi accéder à vos signets depuis le panneau de navigation.
+Jouer avec d'autres personnes
+Sélectionner la police à largeur fixe HTML pour l'impression
+A ajouté un saut simple.
+Evolution nécessite un redémarrage pour charger la boîte aux lettres de l'utilisateur abonné
+Analyse terminée, génération de la carte...
+Suppression de vieux paquetages
+Recherche des polices dupliquées. Veuillez patienter...
+Liste de tous les comptes
+Cliquez ici pour modifier la couleur de la grille, c'est-à-dire la couleur des bordures de chaque cellule.
+Copier toutes les pages (non triées)
+Afficher les informations sur l'utilisateur.
+Préférences (application instantanée)
+Options sur la périodicité de cet événement ou de cette tâche.
+Will o' the Wisp
+Seth Kurzenberg seth@cql. com
+Fait défiler automatiquement la liste de lecture vers la piste courante
+Drapeaux du compilateur (CFLAGS) :
+Modifier la barre d'outils de l' application
+Démarrage pour enregistrer
+-v, --volume pourcentage
+Les gestes inhabituels (commutateurs, pressions sur des boutons) peuvent fournir des informations de différentes manières :
+Prise en charge de la gestion de projets QMake
+Ceci possède beaucoup de réglages, avec des réglages supplémentaires disponibles pour certains sous-types.
+Envoyer et recevoir le courriel :
+Exclure les entrées privées de l'exportation
+Outil KDE pour demander et contrôler les options de gestion de l'énergie depuis la ligne de commande
+Les 90 derniers jours
+L'exécution de la commande a échoué
+L'année entière
+Spécifie le préfixe utilisé pour les entrées de l'utilisateur.
+Purger entièrement la collection entière
+Sélectionner l'élément activé
+Espace nécessaire pour les fichiers extraits
+La représentation interne n'est pas valable, veuillez recharger.
+Ajouter automatiquement ou non les contacts au carnet d'adresses de l'utilisateur.
+Cette clé a été abandonnée dans la version 3.10 et ne devrait plus être utilisée. Utiliser «browser-close-on-reply-policy » à la place.
+La création de transactions ne peut être effectuée qu'en mode registre
+OR : un test de condition doit être vrai pour faire la correspondance.
+Numéro de fax non valable.
+SIN(0) vaut 0
+Créer une nouvelle tâche
+Nécessite une localisation complète
+Une liste déroulante de types de service à chercher
+Authorisation PolicyKit pour KDE
+Saisissez les arguments de ce site intelligent :
+Le nom du fichier DTEP depuis lequel ce fichier DTEP hérite des balises.
+Pour supprimer une vue, sélectionnez Affichage Supprimer la vue
+La première carte est distribuée sur un tas de fondations. Les autres fondations ont habituellement de commencer par une carte de ce rang. Voir : fondations
+Pour les comptes de cartes bancaires, vous pouvez créer une échéance mensuelle qui vous rappelera automatiquement du paiement. Veuillez remplir ici les détails concernant ce paiement.
+Connexion perdue au serveur IMAP
+Section niveau 5
+Les huit champs à gauche et à droite de la charpente, entre les champs de bord. Une seule carte par pile est possible.
+Qualité haute (cartouche couleur)
+Jouer ou modifier un niveau
+Insérer un nouveau modèle
+Vous pouvez aussi importer directement depuis Mozilla Firefox et Thunderbird en utilisant l'extension Firefox et Thunderbird F-Spot écrite par Pizzach.
+Notification dans la boîte à miniatures
+Les 30 derniers jours
+Enregistre le contenu de la discussion dans un fichier.
+(facultatif) Si la tâche est une liste de tâches en ligne, indiquez l'URL de la liste de tâches.
+Saisissez le nom d'hôteftp
+Recherchez sur gravatar.com la photo de l' expéditeur
+Aucun outil n'a été chargé - il est probable que les modules Avogadro ne soient pas localisés. Aucune molécule ne peut être affichée jusqu'à ce que ce problème soit résolu.
+Aucun détail fourni.
+Ne pas préfacer avec AT. Saisir affiche généralement l'arrêt.
+Vous pouvez écraser l'utilisation de $HOME /. kde en paramétrant la variable $KDEHOME.
+Indique s'il faut faire un son lors de l'arrivée de nouveaux messages. Si « faux », les touches « notify-sound-beep », «notify-sound-file » et «notify-sound-play-file » sont dés
+Chancelle précédente dans la collection actuelle
+Lorsque vous faites des courses, essayez de calculer sans l'utiliser d'une calculatrice.
+Cliquez sur Ok pour fermer Evolution et démarrer la sauvegarde.
+Banshee est un lecteur multimédia qui vous permet de lire vos musiques, vos vidéos et d'autres médias et de les synchroniser avec des périphériques portables pour prendre en charge vos média à la main.
+Lecteur CD/ DVD
+Les tableaux sont limités à un maximum de dix colonnes.
+Aucun fichier de profil ICC trouvé.
+Importer cet agenda dans le calendrier principal
+Afficher le champ « De » lors de l'envoi d'un message. Cette option est contrôlée par le menu Affichage quand un compte de messagerie est choisi.
+Boîte à lettres POP3 distante...
+L'authentification avec le serveur a échoué.
+Couleurs de coût des éléments
+Le lecteur de média intégré
+Saisissez un hôte distant (utilisateur@example. com)
+D'une autre façon, dans le menu principal, sélectionnez Projet Ajouter une bibliothèque...
+Si Afficher les utilisateurs est coché, vous avez choisi d'afficher les images des utilisateurs au lieu de les faire saisir leur nom de connexion.
+Vous pouvez configurer ici les options spécifiques à une cible.
+Bouton Bienvenue (~)
+Outils Exporter des données...
+Marquage de messages comme lus...
+(Dés)Active l'insertion de l'astérisque de début dans les commentaires de doxygen. Ceci n'a aucun effet à moins que vous utilisez l'auto-indenteur cstyle.
+Supprimer les méta-données EXIF
+Impossible d'introspecter le signal
+Les balles rouges se déplacent à une vitesse constante sur le terrain, rebondissant sur les murs jusqu'à ce qu'elles percute une autre balle, ce qui entraîne la perte et la direction des deux balles.
+Gérer vos comptes
+Nombre de colonnes
+Cachée après le délai
+Recherche d'aide Anjuta
+(Dés)active l'exécution du code javascript
+Définir le chemin complet des applications externes
+Le fichier de configuration qui contient les informations sur vos imprimantes localement installées.
+Nom du logger
+Ctrl; Maj; F Historique du défilement...
+Copier au premier plan de gauche
+Numéro du dernier nombre
+Vous pouvez continuer à effectuer les déplacements annulés jusqu'à ce que vous atteindrez le début du jeu.
+N'activez cette option que si vous êtes absolument certain que vous en avez besoin.
+Appuyez sur ce bouton pour appliquer la préférence sélectionnée à tous les conflits futurs qui pourraient se produire pendant cette synchronisation.
+Dans le mode auto-advance-mode, ce paramètre spécifie comment afficher le résultat de la sélection avant de sauter au conflit non résolu suivant.
+Calendrier d'alarmes personnelles, de commandes et de courriels pour KDE
+Structure de document non valable (il manqueMETA-INF/ manifest. xml est missing)
+Modifier la largeur de l' objet
+Impossible de déterminer le format avec lequel enregistrer l'image cible.
+Cisco - TéléphoneStencils
+Se souvenir des réglages en quittant
+Ceci représente le serveur auquel se connecter pour jouer à une partie déjà créée
+Utilisez cette zone de sélection numérique pour régler le nombre de jours pendant lesquels les événements à venir peuvent être supérieurs à une année dans le futur.
+Choisissez si vous voulez accepter les cookies de tous les sites Web, accepter les cookies seulement des sites Web que vous avez visités ou non.
+Ctrl; Gauche, Ctrl; Droite
+Cette touche détermine le module GTK+ à charger pour la gestion des plantages.
+Déboguer la création de segments de texture
+Modifie la taille des pages du document.
+Format des adresses selon le standard dans leur pays de destination
+Capacité totale du système de fichiers
+smartcard Ce module vous permet de configurer la prise en charge des cartes intelligentes pour KDE. Elles peuvent être utilisées pour différentes tâches comme stocker les certificats SSL et se connecter au système.
+Définir l'intervalle de temps avant en ms.
+Ceci diminue la taille de la police d'affichage.
+@@image: './figures/color-8f5902.png'; md5=ff5ccb859fe04a004cd67e1c22621dc6
+Un outil de formatage utilisant astyle
+PMT(rate; nper; pv [; fv = 0 [; type = 0]])
+Le menu Aller
+Vous pouvez vous déplacer de chaque page d'un document à l'aide des méthodes suivantes :
+Crée une contre proposition...
+Dessiner une polyligne. Maj. -click termine ce polyligne.
+Moteur de données Falcon par exemple
+Collection d'exemples d'échantillons, qui peuvent être téléchargés avec KNewStuff2
+Nom du serveur
+Le motif et la couleur de l'arrière-plan des cellules peuvent être sélectionnés depuis la page d'arrière-plan.
+Cochez L'heure à laquelle l'alarme doit être déclenchée.
+génére un projet Quanta
+Supprime tout le contenu du plasmoïde.
+Les variables d'environnement qui ont été transmises à Xstartup sont également transmises à Xreset.
+Saisissez le nouveau mot de passe pour la base de données de certificat
+Position du graphique sur la scène
+Changer les données de l' utilisateur
+Dans la vue mémos, vous pouvez rechercher rapidement des mémos soit par résumé ou par catégorie.
+Saisissez le chemin absolu d'un script
+Ouverture de l'agenda. Veuillez patienter.
+Windows Live Mail
+Touche secrète disponible
+Stuart Parmenter (pavlov@pavlov.net)
+ÉditerTout sélectionner -- Sélectionne tout le texte du message actuellement affiché.
+Supprimer un quadrique de Bézier rationnel
+Vitesse du lecteur Estimée :
+Oui, la partie humaine est ce à quoi cette section s'intéresse. La partie divine est à vous !
+Le canal sur lequel enregistrer.
+Laisser le téléchargeur ouvert après la fin du téléchargement
+Apparence de l'horloge analogique
+Augmenter le niveau d' numérotation
+Ouvrir en mode lecture seule
+SDL - Macro
+(c) 2003-2004, Les développeurs de Kontact
+Cliquez-glissez pour lisser la sélection.
+Opérations en l'air (JPEG seulement)
+Cliquez pour saisir du texte
+Couleur des lignes des constellations
+Les options que vous avez indiquées ne sont pas correctes
+Si --source est spécifié, c'est l'intervalle de mise à jour qui sera utilisé lors de la requête de cette source.
+Le même
+Pour enregistrer une image, choisissez FichierEnregistrer. L'image est enregistrée avec le même nom et le même type de fichier. Par conséquent, les images non modifiées ne doivent pas être enregistrées.
+Liste de types de pièce jointe de message pour supprimer les courriels qui sont transférés en ligne.
+Affichage des tâches
+Ajouter un nouveau fichier ou un nouveau répertoire à l'arbre CVS
+Connexion VPN sécurisée terminée localement par le client. Veuillez vérifier vos paramètres (par exemple le mot de passe du certificat).
+teraseconde; terasecondes; Tsamount in units (real)
+Condition pour prendre cette transition quand l'événement est lancé@info: whatsthis
+Fichier à transformer
+Aucun méta-donnée disponible
+Subversion : validation des modifications dans le dépôt...
+Polygon Version 2.2.0 écrit par Martin R. Jones 1996 mjones@kde. org
+Cacher la colonne de cette page
+Rise/ Set/ Transit
+Affichage du document
+Morceaux écoutés fréquemment pendant la semaine
+Dernier solde sur votre registre
+En option : sélectionner la couleur ou l'image de l'arrière-plan de la table.
+L'opération ne s'est pas terminée avec succès
+Annuler et retourner en arrière
+Des conduits renommés, les programmes Kroupware et les installers de fichiers ont aussi été des conduits.
+Topic non pris en charge par cette conversation
+Éditeur de matrice Z
+Saisissez le programme détaillé d'événement dans la plus grande zone du rectangle. Pour ce simple exemple, saisissez Introduction, Le plan, Conclusion sur trois lignes séparées.
+Sélectionnez un ou plusieurs fichiers à signer et/ ou chiffrer
+Met en surbrillance le dernier mouvement de votre adversaire.
+Si DTR passe de On à Off, le modem entre en mode commande (seulement les modems DTR)
+Taille de la vidéo actuelle en pixels
+la section spécifie la catégorie.
+Définir la hauteur de la cellule.
+360 x 360 ppp, papier ordinaire, nuances de gris
+Ajouter un signet vers une page pour l'enregistrer définitivement et y accéder rapidement.
+Impossible de créer la galerie. xml
+Moteur principal Autotools pour le gestionnaire de projets
+Le menu Fichier possède un seul élément.
+Bas atteint, poursuite en haut
+Pour annuler un coup de tir incorrect, choisissez Hole Annuler le coup.
+Impossible d'enregistrer les nouvelles adresses dans le carnet d'adresses.
+Nouveau niveau de zoom
+Afficher les meilleurs scores du monde
+Utiliser l'assistant de première utilisation prend deux à cinq minutes.
+Impossible d'ouvrir le référentiel. xml en écriture
+Confirmer la taille du diagramme
+Je n'écoute pas de sons
+Insérer des éléments en ligne
+Grésil intermittent mêlé de pluie verglaçanteweather forecast
+Erreur : l'identité n'a pas de nom
+Chiffrer le message avec Chiasmus...
+La seconde sans un zéro de début (0..59).
+Erreur lors de l'analyse de bezpoint p1.
+Si vous souhaitez changer le mot de passe ou l'expiration d'une clé secrète, cliquez simplement deux fois sur celle -ci pour obtenir la boîte de dialogue de propriétés de la clé.
+Récupération et stockage des messages...
+Choisissez la directrice de la nouvelle conique...
+Des peintres ne sont pas artistes
+Lorsque vous envoyez le message, une copie du fichier joint y est placée. Prenez garde que les grandes pièces jointes prennent un long temps d'envoi et de réception.
+Méthode de récupération de la session par défaut. 0 ouvre les fenêtres, 1 ajoute des sites aux signets, 2 retire la session.
+Nom d'écran de travail GroupWise 1
+Le service Personnes à proximité est un service de communication sans serveur : vous n'avez pas besoin de vous connecter et d'authentifier sur un serveur central pour l'utiliser.
+Choisissez la source de lumière depuis laquelle l'ombre devrait se former...
+Si vous répondez à un puzzle de manière incorrecte, vous ne verrez aucun score.
+Le conteneur qui a créé ces données
+Module externe de base de données symboles pour Anjuta.
+Contrôle complet des tâches d' impression
+Pung/ Kong de Dragons
+Impossible d'enregistrer le fichier
+Tank with Floating Roof
+Les paramètres du feuille de style suivants ont été utilisés :
+Sélectionner cette courbe polygonale
+Fichier archive compressé ZOO (.zoo)
+Pour améliorer la facilité de lecture, les flux qui commencent et finissent verticalement peuvent être rendus gris
+Raccourcis clavier en ligne de commande.
+Cacher la grille de perspective
+Dessiner un glace autour du soleil avec un rayon de la valeur spécifiée plus grand que le Soleil. La valeur par défaut est 28.
+macro introuvable
+Désactiver la surbrillance de la syntaxe
+développeur (libre I/ O)
+Impossible de démonter ce partage. Le point de montage est vide.
+Construire un polygone ordinaire avec ce sommet
+Retourne la ligne de fin de la sélection.
+Trinidad et Tobagoworld. kgm
+Le Plateau Giza
+Il regroupe les pages d'information nécessaires au projet.
+Recharger les messages du type « text/plain;format=flowed »
+Pour chiffrer un seul message :
+Graham Short grahshrt@netscape. net
+Taille du bloc de bande
+vignettes 5x4
+Cette commande vous permet d'ouvrir un fichier depuis un sous-menu qui contient une liste des fichiers récemment édités.
+Vous êtes sur le point de sélectionner un autre compte, ce qui annulera vos modifications. Voulez-vous vraiment continuer ?
+Insérer une fraction appliquée
+La journalisation d'utilisation est activée
+Ouvre une boîte de dialogue qui vous donne la version de Kard, le nom et l'adresse électronique, les noms des contributeurs et la licence.
+Ajoute un nouvel enregistrement à la base de données.
+quatre de pique
+Ce fichier n'est pas modifiable
+État personnel du carnet d'adresses
+mois de début de l'année fiscale
+L'analyseur d'utilisation des disques utilise la commande du pour créer une vue détaillée de l'utilisation du stockage, et a besoin que vous ayez les droits en lecture des fichiers et d'exécution des répertoires.
+Indique si une erreur se produit
+Cochez cette case pour lancer les canals sélectionnés avant chaque sauvegarde. Cela assure à la sauvegarde d'être à jour avec les derniers changements effectués sur votre PC.
+Avertissements/ erreurs trouvés.
+Listes de lecture intelligentes Banshee
+Rappel de la mémoire
+Choisissez la directrice de la nouvelle parabole...
+Imprimer les informations de profilage
+Avertir quand une variable non définie est référencée dans le Makefile
+. / configure --prefix= / opt/ kde3
+Le masque de connexion définit une plage de numéros IP qui construira un sous-réseau à l'intérieur du réseau.
+Cette commande alterne l'affichage des barres d'outils.
+Une seule option peut être donnée à la fois
+Démarrer pour graver le contenu de la sélection
+La méthode POST est maintenant requise pour tous les paramètres
+Ajouter à des endroits
+Quelqu'un est en train de saisir un message.
+Module externe KOrganizer pour Kontact
+Fonctionnalités avancées d'Amarok
+Créer un profil
+Application de test de capture vidéo
+IETF RF5228 fournit plus d'informations.
+Ce message ne sera pas chiffré pour les destinataires BCC:.
+Supprimer les fichiers bruts sélectionnés de la liste
+Lumineuse fluorescente (D 5700 - 7100K)
+Barre d'état de barre d'état d'arrière plan HTML - message HTML
+Pour son oeuvre bombastique.
+Impossible d'obtenir le nom du fichier d'archive
+Erreur lors de la lecture du disque.
+Les îles Wallis et Futuna
+Remplacement automatique des mots mal orné permet de corriger les mots mal ornées ou d'enregistrer certaines occurrences.
+Crée une nouvelle session, s'il n'y en a aucun vide
+Écriture du texte peut prendre du temps.
+(c) 2009 Trever Fischer
+Fichier Créer un profil de sauvegarde
+Toutes les tâches de la file d'attente ont été terminées
+Niveau de l'éditeur
+Sélectionner cette valeur comme poids
+Espacement de la ligne 1/ 2, au moins 1/ 3 de la dernière ligne est gratuit
+Annule tous les changements effectués
+Développer dans UFRaw
+yoctoseconde; yoctosecondes; ysamount in units (real)
+Sélection de la liste de fréquences
+Personnaliser les raccourcis clavier associés aux éléments du menu
+Cacher la boîte de réception locale si non utilisée
+Augmenter d'un niveau
+360 x 360 ppp, papier haute résolution
+Modification de l'apparence
+Fichier Mettre l'état hors ligne
+Appuyez sur Ctrlclick pour synchroniser.
+Glissez-déposez l'événement vers le nouvel emplacement de date et d'heure.
+Ce paramètre spécifie si la trie des threads doit être basée sur la date du dernier message de chaque thread, plutôt que sur la date du message. Evolution nécessite un redémarrage.
+Conditions disponibles pour le paramétrage du filtre.
+Quel est votre nom d'écran AIM ?
+Déconnecter du serveur
+Impossible de démarrer la copie. Vérifiez si vous avez les droits d'accès suffisants.
+Algorithme de renommage des murs en cours
+Si activé, les caractères TAB et les espaces de fin seront affichés par un petit point.
+Voici le nombre total de pauses courtes que vous avez ignorées.
+Le DVD vidéo a été gravé avec succès
+Lorsque vous créez une nouvelle archive ou lorsque vous convertez une archive existante dans un autre format, cliquez sur Autres Options pour indiquer les options avancées suivantes :
+Christoph Eckert mchristoph. eckert@t-online. de
+Le panneau de contrôle des cartes utilisant ICE1712 pour KDE
+Le fichier importé a été renommé à cause d'un conflit de noms
+Définit les carnets d'adresses à utiliser pour compléter les adresses électroniques dans l'éditeur de messages. Pour plus d'informations, consultez Complétion automatique.
+Vous démarrez la configuration en cliquant sur Déboguer Configurer dans la barre de menus.
+Indique s'il faut afficher le temps comme occupé
+Établir les fichiers sélectionnés avec ce nombre de pistes
+Au cours de l'envoi, un morceau est chargé dans la mémoire et la vérification automatique de ce morceau s'effectue pour voir s'il est toujours OK.
+Chaîne de version XML non valable.
+Certaines multiplications ne fonctionnent pas à cause des limitations de la bibliothèque mathématique.
+Vous pouvez enregistrer les paramètres utilisés par défaut pour tous les nouveaux documents en sélectionnant Édition Enregistrer les paramètres courants comme défaut ou en pressant CtrlT.
+Télécharger plus de résultats de l'archive Internet ?
+Supprimer le fichier inclus après le rapport
+Livret de 3 à 4 pages
+Recherche de courriels correspondant à un type de pièce jointe spécifique
+Un puzzle en spirale
+Copie le texte sélectionné avec la surbrillance en HTML.
+Imprimer le film en arrière
+Variation de la constante de graphe
+Le projet Conglomerate est géré comme une initiative libre pour développer le système d'édition XML ultime. Par conséquent, tout aide en forme de contribution productive est toujours welcome.
+Vérifiez l'état de votre connexion réseau.
+Utiliser les commandes en ligne du paquet booktabs.
+Erik Kjær Pedersenn
+Le nom vient de la France pour rendre hommage à Marguerite Perey
+(Dés)Active le repli statique des mots.
+Construire le vecteur somme de ce vecteur et de l'autre.
+Vous devez d'abord sélectionner une politique à modifier.
+Le programme s'exécute. Voulez-vous toujours arrêter le débogueur ?
+Périphériques multimédia MTP et Rio Karma, correctifs
+Voici quelques options qui ne rentrent pas vraiment dans les autres sections, mais qui peuvent être très utiles.
+Brasero - Projet de nouveau disque de données
+Ligne épaisse
+Utiliser les sons de notification
+Définit la couleur de fond par défaut
+Erreur lors de l'exécution de la précommandation.
+C'est le mode d'affichage par défaut. Dans ce mode, toutes les listes de lecture sont affichées comme de grandes icônes, l'une au dessus de l'autre en mode d'affichage.
+Vérifier l'intégrité d'une archive
+Crée un document A4 vide, avec une petite marge.
+Décrire le type de données pour le champ
+Modifier l'en-tête de signature standard.
+Contenu à exporter
+Transfert les images vers l'album iPod sélectionné.
+Requête de réponse pour les éléments envoyés
+Synchroniser vos signets Firefox 3
+Afficher une copie de ce fichier à cette révision
+Connexion série
+Nom du terrain de jeu
+La longueur minimum de la sortie
+Spécifiez les années pour le calcul dans le fichier d'entrée.
+Importer des données d'une source externe dans cette base de données
+Dasher peut être entraîné sur des exemples de tous les styles d'écriture et il apprend tout le temps, en picking vos passages de phrase personnels.
+Afficher les noms de tous les bords
+Al Bayda '
+Lorsque vous jouez au niveau de difficulté très élevé, un bon endroit pour commencer à chercher est près de cases vides, s'ils sont présentes, et près de régions contenant de nombreux terminals regroupés.
+Remarquez que certains fournisseurs Internet ne permettent la récupération des nouvelles de leurs serveurs de forums que si vous êtes connecté à l'Internet avec eux.
+Le bouton Édition... vous permet de changer soit l'icône soit le texte de l'émoticône sélectionnée. Vous devez cliquer sur le bouton Ok pour valider cette action.
+Copier l'étiquette dans le presse-papiers
+Lire les autorisations du système
+Cisco - ordinateurStencils
+Vous verrez dans la liste toutes les actions possibles qui sont disponibles lorsque des périphériques sont connectés. Notez qu'elles ne seront disponibles qu' sous certaines conditions.
+Le serveur, le nom d'utilisateur et le nom de domaine ne sont pas vide. Veuillez les remplir avec des valeurs correctes.
+Image linéaire ( noir et blanc, 1 profondeur)
+DjVu (.djvu, .djv)
+Averses de pluie claire
+Afficher le bouton d'enregistrement
+Ensuite, une définition de classe, avec un nom et une description :
+L'UID de la liste de mémos sélectionnée (ou « principale ») dans la barre latérale de l'affichage « Mémos ».
+Informations bibliographiques diverses
+/ usr/ bin/ unrar
+Lecteur de courriels Balsa
+Interface TIFF pour Okular
+Préfixer pour installer les fichiers de ressources à
+La phrase de passe pour le certificat TLS.
+Les étapes pour la copie sont similaires.
+Ajouter les bordures de table
+Cochez cette case pour effectuer une recherche dans tous les sous-dossiers.
+COUNT(valeur; valeur; valeur...)
+Concentrateur de gaz, base
+Affiche le rappel en avance de l' alarme@info: whatsthis
+Lancer la barre de recherche incrémentale qui vous permet de chercher du texte dans le document édité.
+Importe des valeurs d'un fichier texte. Chaque ligne du fichier est analysée comme une valeur ou une expression.
+Échec de lecture du numéro de version.
+Si vous le désirez, vous pouvez transférer vos clés vers un serveur de clés.
+Informations sur le type de grille
+La liste de révocation de certificat (CRL) a expiré
+Aucune information détaillée pour ce fichier n'a été trouvée.
+visible en mode hors ligne
+Application professionnelle spécifique
+Ceci affiche des astuces utiles sur l'utilisation de cette application.
+Ajouter une autre icône dans la boîte à miniatures
+Zoomer sur le document
+Configuration du filtre de touches définissant les propriétés d'affichage
+six de carreau
+Lorsque vous avez fini d'utiliser l'outil de connexion, cliquez sur l'outil Flèche pour restaurer la fonctionnalité de sélection normale.
+Enregistrer pour un nouveau compte
+La liste des avertissements actuelle est vide.
+Tous les albums de votre collection qui affiche tous les albums de votre collection.
+L'alignement de l'acteur sur l'axe X dans son allocation
+Problèmes IRC courants
+Systèmes de fichiers de projet de données personnalisés
+Sélectionner la police de la variable HTML
+La minute sans un zéro de début (0..59).
+Solveur adaptatif Runge-Kutta Prince-Dormand (8,9) depuis la bibliothèque GSL
+Fin prématurée du fichier FIG
+Les types d'événements arbitraires peuvent être spécifiés dans les données du profil en leur donnant un nom. Le coût lié au coût est un entier 64 bits.
+Restaurer la saturation originale
+Géométrique - Étoile à sept branchesStencils
+- Aller Groupe précédent
+Afficher la partie comme un contact de carnet d'adresses
+Choisissez si le nom de la boîte aux lettres est différent du nom de l'utilisateur. S'il y en a, saisissez le nom de la boîte aux lettres.
+PIN spécifié par l' utilisateur
+Impossible de trouver ce mémo dans aucune liste de mémos
+Point 4
+Indique si l'icône doit clignoter ou non.
+Demander avant l'envoi à des destinataires non saisis sous la forme d'adresses de courriel
+Afficher ces rendez-vous spéciaux de votre liste de contacts
+Tomasz Boczkowski tboczkowski@onet. pl - Portage vers KDE4 et KGameCavas
+Voulez-vous faire d'Evolution le client de messagerie par défaut ?
+Le client de messagerie n'est pas lancé
+Non connecté
+Déplacer toutes les cartes sur les fondations.
+Le groupe d'options Apparence change la manière dont l'applet de changement d'utilisateur est affiché sur le tableau de bord pour correspondre à l'option sélectionnée.
+Aucun son entrant n'est joué.
+Cochez cette option si votre appareil photo est connecté à votre ordinateur à l'aide d'un câble série.
+Imprime le document
+Vous souriez si vous êtes heureux
+Retourne la position d'une sous-chaîne dans la chaîne, ou -1 s'il n'est pas trouvé.
+Il faut recharger le disque avant d'être enregistré
+Indique si les objets du système solaire doivent être cachés lorsque l'affichage est en mouvement.
+ESC/ P PCL PostScript;
+Border les espaces de fin sur les fichiers enregistrés
+Mainteneur actuel, auteur
+Outil de gestion de l' énergie
+Le nom du groupe pour l'autorisation du groupe
+Appuyez sur Prendre plusieurs photos ou appuyez sur la touche Espace.
+Saisissez le jeu de caractères à utiliser
+Pour afficher la page à sa taille normale, choisissez AffichageTaille normale.
+L'option Avant la quantité monétaire affiche le signe avant la valeur numérique, mais après tout symbole monétaire qui peut être présent.
+Brasero - Gravure du CD
+Essayez la requête et assurez -vous que vos détails d'authentification sont correctement saisis.
+L'application a envoyé une requête non valable.
+Spécifie un emplacement à visiter
+(4 octets) La longueur en octets de la chaîne d'identification (ID) du bande.
+La largeur de l'intérieur de la boîte
+Galaxies elliptiques (dE's)Description
+Afficher les icônes sur les boutons
+Ce message est signé et est valable, ce qui signifie qu'il est très probable que ce message soit authentique.
+Générer les méthodes d' accessoire
+Cliquer sur le lien Détails du téléphone affichera également des informations plus avancées, comme la manufacture et le modèle du téléphone ou le code IMEI.
+Le menu contextuel des éléments de l'historique
+Script python montrant comment créer des listes avec HTML
+Configurez ici la vérification orthographique, les signatures et l'éditeur de messages
+Ajouter une nouvelle catégorie au blog sélectionné
+Tableau de contenu
+Cet événement a été publié
+Le courriel à utiliser pour l'authentification.
+Sélectionner une tuile
+Il n'y a plus de niveaux dans ce jeu.
+Inférieur A droite vertical
+La mise à jour du système a réussi.
+Styles disponibles par défaut
+Message d'erreur détaillé :
+Augmente la magnification de la vue du document.
+Vous pouvez supprimer les anciens signets et signets indésirables.
+Échec du processus de mise à jour de la distribution avec une erreur inconnue.
+Aucune entrée Cddb trouvée.
+Plus d'informations sur le manuel de Chronojump
+Beaucoup de correctifs, de correctifs, de mises à jour
+Corps du message
+Sélectionnez le fichier à ajouter :
+external ref='figures/empathy-main-window.png' md5='54908dcb2588beddb15ef0968d2c2582'
+Ouvrir un script...
+Police utilisée dans l' éditeur
+il n'y a rien qu'un objectif de test
+Commande qui est exécutée avant de vérifier le courriel
+Sous-division de niveau 7 de la tête, du corps ou du fond d'un texte
+Aller à la ligne numéro :
+Type de champ inconnu
+Lors de la recherche, uniquement faire la recherche sur des mots entiers
+Réduit la lumière du Thinkpad sur les messages entrants.
+Les tâches et les mémos de chaque liste de tâches ou de mémos apparaissent en différentes couleurs.
+Utiliser l'authentification avec une clé publique
+Indique si l'image doit être tournée automatiquement en fonction de l'orientation EXIF.
+Le graphique final ressemble à celui de la capture d'écran suivante.
+Vérifier les boîtes aux lettres IMAP
+Authentification demandée mais aucun nom d'utilisateur fourni
+Sélectionnez dans cette liste le champ représentant le mieux la signification donnée par votre utilisation du premier champ personnalisé sur votre ordinateur de poche.
+Le registre des calendriers
+Afficher le nom de la tâche
+La République Démocratique du Congo
+L'opération n'a pas été démarrée.
+ALT....: vous avez le choix entre ces deux champs
+Augmenter la taille des polices
+Dessiner au premier plan
+Le curseur ne prend pas en charge les index alphabétiques
+Imprimer un livret de 13, 14, 15 ou 16 pages.
+Ajouter la signature lors du transfert d'un courriel existant.
+Spécifie une liste d'adresses à envoyer lorsque le rappel se déclenche
+Mémoire virtuelle ou étendue d'espace
+Risque restant en place jusqu'à la fin de la partie pour les bonus
+Amarok est mis en pause
+Supprimer la collection de formes
+Coloration syntaxique des parties du courriel
+Nouvelle vue à gauche
+Nombre de copies
+Evolution affiche les résultats de la recherche.
+Cisco - ME 1100Stencils
+Gérer les disques, les partitions et les systèmes de fichiers
+pied par seconde; pieds par seconde; ft/ s; ft/ sec; fpsamount in units (real)
+Fusionne individuellement les changements apportés par d'autres branches dans la branche actuelle
+Allumé, sans lumière réfléchie
+Une commande non valable a été rencontrée.
+Activer le économiseur d' écran
+Surveiller la valeur des variables
+Désactiver la recherche de fichiers à l'extérieur du répertoire personnel
+Cette zone contient les messages d'état du jeu. La plupart de ces messages sont envoyés par le moteur actuel.
+Indique si la barre d'outils doit être visible.
+Une erreur non reconnue a été reçue de Facebook.
+Utiliser le modèle de message comme réponse
+Cochez cette case pour enregistrer automatiquement la fin d'une tâche dans une nouvelle entrée de votre journal.
+Afficher ou non le bouton de fermeture
+Cisco - Routeur aérienStencils
+Cochez « Arrêter » pour continuer.
+Menus des services Konqueror
+Choisissez ce qui devrait arriver lorsque vous cliquez sur un vignette.
+Chercher et grouper les transferts
+Insère un vecteur de colonne à deux roues.
+Réduire la taille de la police pour le texte cité
+La fonction TODAY() renvoie la date courante.
+Cette page contient des modifications qui n'ont pas été soumises. Le rechargement de la page entraînera la perte de ces changements.
+Sous-division de niveau cinq du texte avant, du corps ou de l'arrière
+Nom de la ligne de commande
+Date non valable saisie.
+Le titre de la page
+L'application est lancée automatiquement au démarrage de la session KDE
+Remplace les pixels de la couleur de premier plan par la couleur de fond
+Si coché, Amarok reprend la lecture de l'endroit où vous avez laissé la session précédente -- comme un lecteur de bandes.
+Ouvrir rapidement des ressources comme des fichiers, des classes et des méthodes.
+Indique s'il faut afficher les numéros de ligne
+Barre d'espace magique pour lire les courriels
+Interface pour le décodage VBI libZVBI.
+Envoi d'invitations pour des rendez-vous à des contacts par courriel.
+Copie du DVD vidéo
+Impossible d'envoyer le message
+Utiliser un flash
+Montant requis à la date
+Un clone de Scrabble
+XSync est une extension qui permet une requête d'optimisation élevée du système. Si PowerDevil est disponible, PowerDevil sera beaucoup plus fiable et efficient
+Il y a eu des problèmes lors de l'enregistrement de plusieurs sommets de contrôle. Arrêt
+Envoyer vers pastebin
+À prendre de la pioche. Ne peut contenir qu'une carte qui doit être jouée immédiatement vers le tableau.
+Essaye d'appliquer un filtre non valable
+Force le porte-feuille à être fermé.
+Supprimer ce test exécutable de la liste des tests.
+Manuel d'Anjuta
+Possibilité de pluie mêlée de neigeweather forecast
+Personnaliser les raccourcis clavier
+Génère une collection de pages HTML à partir de la description XML du site web
+bzip2 (.tar.bz2, .tbz2)
+Veuillez choisir un compte
+Impossible d'écrire dans le fichier temporaire.
+Impossible de démarrer Maxima
+Pluie verglaçante intermittenteweather forecast
+Indique si la marge du marqueur est invisible
+Quel est le résultat de l'opération donnée ? Répondez en utilisant soit une fraction soit un nombre.
+Vous devez installer le paquet python-devel. Une fois ce paquet installé, vous devriez lancer. / configure et make à nouveau.
+Diminue la luminosité de la vidéo
+Afficher les pages marquées uniquement
+Le centre de configuration est composé de multiples modules. Chaque module est une application séparée, mais le centre de configuration organise tous ces programmes dans un emplacement pratique.
+Détecter automatiquement la configuration du serveur mandataire
+Carnet d'adresses evolution
+Base magnétique Vostok, pôle magnétique S
+Cliquez ici pour ajouter un nouveau but. Celui -ci sera nommé automatiquement.
+Sélectionner une zone rectangulaire
+La signature est valable et la clé est ultimement sécurisée.
+Le puzzle que vous avez saisi n'a qu'une seule solution.
+Comment convertir le texte de sortie.
+Valide les fichiers XML en utilisant xmllint
+Définit l'action à réaliser lorsque la batterie atteint le niveau critique.
+Ce module externe fournit la date dans l'agenda juif.
+Configuration Type de jeu Spider (matériel)
+Saisissez votre commande.
+Déplacer ou copier des photos d'un album vers un autre
+(obsolète) Nom d'utilisateur du serveur mandataire
+Vous devez sélectionner ici un protocole pris en charge.
+valeur de octal non valable
+Avec le gestionnaire d'archives, vous pouvez :
+Les informations sur les protocoles sont enregistrées dans les fichiers *. protocol, stockés dans $KDEDIR / share/ services.
+(c) 2002, José Pablo Ezequiel Fernández
+Outils utilisateur détectés
+Le moteur est en arrêt
+Pour enregistrer le projet pour une utilisation ultérieure, choisissez ProjetEnregistrer.
+Durée de la boîte de surbrillance lors de la sélection de nœ uds accessibles
+Message Ignorer le fil de discussion
+Ouvre la boîte de dialogue pour les propriétés du groupe.
+Si vous ajoutez le thème au SVN de KTuberling, ajoutez les fichiers. svg. theme. desktop dans la section FILES de la CMakeLists. txt dans le dossier pics/
+Indique s'il faut utiliser un gradient logarithmique pour la fonctionnalité Gradient de l'électronegativité de Kalzium
+Test de l'interface D-Bus de KMail
+Sélectionne l'action réalisée lors d'un clic droit sur la zone de jeu principale.
+client GLX vendeur
+Apostrophe de deux chiffres
+Forme de Flèche du soleil
+cvs ajouter les noms de fichiers
+Supprime le style sélectionné dans la liste déroulante style.
+Aaron Bockover, Gabriel Burt, Miguel de Icaza, Bengt Thuree
+Afficher les aperçus complets
+L'image de démarrage contient plusieurs partitions.
+Aligner au centre
+Ignorer tous les changements et fermer
+contribution à un module externe
+Ralf Mueller ralf@bj-ig. de
+La zone d' édition
+La balle bleue ne peut pas sortir du champ. Si le curseur est déplacé, la balle reste sur le bord jusqu'à ce que le curseur retourne.
+Forte bruine, grésilweather condition
+FichierPréférer -- Enregistre le message dans la boîte de dialogue pour une révision et envoi ultérieur. Vous ne serez pas en mesure d'envoyer un message qui n'est pas actuellement valable.
+Les tuiles Seasons n'ont pas de double dans le jeu et peuvent être identiques les unes aux autres.
+F-Spot vous permet de nommer vos photos de une à cinq étoiles. Il y a deux façons de nommer des photos.
+avant la fin de l' événement@info
+L'identifiant IPSec Cisco est vide.
+Cliquez avec le bouton droit de la souris sur les photos et sélectionnez Joindre une étiquetteCreer une nouvelle étiquette....
+(kile). getInputValue( caption, label)
+Une Nokia 770/800
+Le nom vient du grec Prometheus. Prometheus a pris le feu des gods et le a donné à l'homme.
+Afficher, cacher ou modifier la barre d'outils.
+Afficher la dernière réponse du serveur...
+Si vous continuez, tous les comptes proxy seront définitivement supprimés.
+external ref='./figures/new-mail-notification.png' md5='979052fce0d164644cdeda1c20c06e28'
+Impossible d'initialiser le vérificateur orthographique
+N'hésitez pas à enregistrer vos réglages en cliquant sur l'icône de la barre d'outils Enregistrer ou en utilisant l'élément de menu Fichier Enregistrer.
+TIME(10; 2; 2) renvoie 10:02:02
+Quel est votre mot de passe Windows Live ?
+Arpeggio 3/ 4 souple avec retour
+Création d'un nouveau fichier et insérer du texte
+Cochez cette option si vous souhaitez utiliser un autre programme de messagerie.
+Vérifiez que vous êtes dans le Mode vidéo. Si c'est le cas, le bouton Vidéo est sélectionné à gauche de l'écran.
+Compilation et installation
+Impossible de s'authentifier sur le serveur Exchange MAPI.
+Détruit tous les robots dans des cellules adjacentes au héros. Voir.
+Construire une parabole avec ce foyer
+Archive PKZIP ou WinZip
+Filtrer par groupe
+Modifier les préférences en relation avec cette source
+Dans la liste déroulante Couleurs, sélectionnez le type de remplissage que vous voulez utiliser pour l'arrière-plan.
+Impossible d'envoyer le message
+ark --add my-archive. zip photo1. jpg text. txt
+Impossible d'enregistrer le thème.
+Expression rationnelle pour trouver le type de l' élément
+Module externe libbz2 pour Kerfuffle
+CVS CVS intl po
+Modifie les attributs de la police et du paragraphe des styles. Les styles multiples peuvent être changés à l'aide de la boîte de dialogue.
+Antonio Salazar savedfastcool@gmail. com
+L'environnement et la météo
+Dessiner les noms de symboles
+Serveur proxy SIP
+Afficher un objet
+cacher le courbe
+Désactive les tentatives de Cogl de couper des rectangles dans des logiciels.
+Vous ne serez pas en mesure de saisir un mot de passe, car tous les types d'archives ne gèrent pas le chiffrement, donc il est mieux de choisir un format de fichier avant de définir un mot de passe.
+Graphique du prix d' investissement
+Quitter l'IDE Anjuta
+Supprimer un paquetage
+Code pour générer des icônes pour la barre de caractères
+Cliquez sur AffichageAperçu ou appuyez sur F5.
+Ajouter une étiquette
+Efface la liste des documents récemment utilisés du menu des applications KDE
+Lance la boîte de dialogue courante.
+Éditeur de schémas de couleurs
+Choisissez le segment sur lequel vous voulez dessiner l'axe...
+Toujours afficher KMail dans la boîte à miniatures
+Comment marquer un message dans Novell Groupwise comme non pourriel.
+Imprime une image du plateau.
+Impossible de traiter le téléchargement
+Kenneth Wesley Wimer II (icons) kwwii@bootsplash. org
+Cliquez sur Ouvrir pour commencer le balayage
+Configuration Gérer les modèles...
+Activer l'invocation automatique
+Ascension à droite de la position du focus
+Ce greffon affiche une vue graphique de tous les documents actuellement chargés et les sépare par type MIME.
+Visualisation du taux de trafic
+Enregistrer le fichier d' annotation
+Pour déterminer mes interests, habits ou comportements
+Cochez cette case si vous voulez spécifier le nombre de jours dans le futur pour les tâches en attente.
+Activer l'analyseur de code CLang
+Vous devez sélectionner un périphérique.
+Greffon principal du projet GNU Autotools
+français (auto-généré) 2
+Définir un prix pour cet élément
+cd / tmp; kedit fichier. txt
+Un paramètre attendu
+Ensemble de cordes 1
+Indique si la scène doit effacer son contenu
+Un concepteur de modèle interactive LDraw pour KDE 4
+Utilisez les nombres pour savoir où se trouvent les mines à proximité.
+Source pour la synchronisation de fichiers multiples
+Plus anciens que (jours) :
+Si vous cochez cette option, ce certificat sera toujours refusé.
+Choisissez un point servant de point de contrôle au nouveau cube...
+Manuel du visionneur de documents Evince
+Ajuster la date et l'heure du téléphone au démarrage
+Auteur (lecture, création)
+Contactez-nous à :
+Pour tester la fusion automatique, copiez une ligne comme utilisée dans vos fichiers.
+Vérification de l'intégrité du fichier
+Définir le PIN initial (NKS)
+Saisissez un commentaire sur ce formulaire.
+en tant que bouton dans les boîtes de dialogue d'arrêt simple
+Suppression et restauration d'un économiseur d'écran de votre système
+Recherche l'occurrence précédente de la phrase recherchée.
+Nouveau message arrivé
+Extraire toutes les pistes dans un seul fichier
+« Liste seulement des volets Deltas » : les fichiers correspondant dans tous les répertoires ne apparaissent pas dans l'arborescence, et par conséquent pas dans la destination.
+En savoir plus sur la façon d'utiliser Banshee
+Type personnalisé 5
+Moniteur eBay pour KDE
+Actions de méta-données communes
+Préférences de l'affichage des images
+Dessine une barre d'affichage à l'apparence d'un fantôme ombragée.
+Supprime tous les types sélectionnés dans la liste.
+Filtre de texte simple
+Dessine un motif à partir d'un point au hasard comme une poubelle.
+Sélectionnez les fichiers à télécharger
+Ne pas vérifier les politiques de certificat
+Touches de chiffrement non entièrement fiables
+Cette valeur contrôle l'effet de moussement du pinceau sous le canevas.
+Basculer en mode
+Si vous appuyez sur Alt; foo, le raccourci clavier sera exécuté. S'il n'y a pas de raccourci clavier configuré, la lettre Fo sera utilisée pour la recherche rapide.
+Le choix du bouton que vous appuyez peut fournir des informations (cette idée est exploitée par le clavier ordinaire).
+Aller au premier message non lu ou nouveau message
+Landschaft inverse (270°)
+Il s'agit de la commande et de ses paramètres pour appeller l'éditeur sélectionné avec le fichier source du document actuel.
+les problèmes possibles d'échéance ont été notés
+Ouvre une boîte de dialogue qui vous permet de créer un nouveau référentiel local. Voir.
+Spécifiez un nom pour le calendrier Google.
+Modifie la priorité d'un processus
+Format de comparaison CVS
+Effacer la liste des entrées
+Si coché, Banshee vérifie chaque heure pour voir si ce podcast a de nouveaux épisodes
+Supprimer le modèle de couleurs sélectionné
+Il n'y aura probablement pas d'entrées au début, et c'est ce que nous sommes sur le point de faire maintenant.
+Sélectionnez la commande à lancer
+L'affichage en liste affiche les données de certains sensors sous la forme d'une table.
+Evolution possède un certain nombre d'options en ligne de commandes que vous pouvez utiliser. Pour des informations sur les options en ligne de commandes, ouvrez une fenêtre de terminal et saisissez evolution --help.
+Seul un Roi peut être déplacé vers un emplacement de tableau blanc.
+Augmente le contraste de la vidéo
+Impossible de lancer une application externe.
+Introduction au visionneur de documents Evince.
+Crée un nouveau signet pour la position courante du curseur.
+Ce travail n'est utile qu'avec un document maître.
+Courir 200 mètres
+Choisissez une couleur de texte (nécessite un paquet de couleurs).
+La récupération du certificat d'émetteur a échoué. Cela signifie que le certificat de l'autorité de certification (CA) n'a pu être trouvé.
+Le chemin des sources Parley
+Chargeur feuille automatique
+Portable ( 160 kbps en moyenne)
+Exécution des tâches planifiées
+M'avertir quand je visite un site qui partage mes informations personnelles avec d'autres entreprises
+Rodolfo Borges barrett@labma. ufrj. br
+Intuitive, bonne apparence et interface utilisateur facile à apprendre.
+Mise à jour automatique des périphériques
+Taille naturelle de l'image si possible
+Configuration Configurer KNode... Lecture des filtres de nouvelles
+Orage, brume, brouillardweather condition
+Connecter les points pour créer les carrés
+40 - 63 Mo de mémoire
+Configuration de paramètres qui peuvent améliorer les performances de KDE
+Capture d'écran de la Configuration de l'OSD
+Visionneur de télétexte GNOME
+--end-time nbsp; end-time
+graphique de température et de vitesse du ventilateur
+Ce mode simule une photo créée avec du toner sepia.
+Module externe de rotation libre pour digiKam
+Le rendez-vous se répète
+r - Artificial Harmonic
+Impossible de vérifier ce certificat car il a été révoqué.
+C'est un draw !
+Si un des contacts ou plus a plusieurs comptes avec des services de messagerie différents, vous pouvez les combiner en un seul.
+Effectuer la sélection jusqu'à la fin du bloc
+Met en surbrillance les cellules dont les valeurs sont contraires aux règles en rouge
+Visitez le site web du projet LibRaw
+Sélectionner le fichier de sortie
+Activez cette option pour stocker les informations de credit et de copyright par défaut dans les étiquettes XMP et IPTC en utilisant les paramètres de méta-données de digiKam.
+Utiliser l'agent GnuPG
+Couleur d'arrière plan sélectionnée...
+Afficher les options spécifiques à KDE.
+Cette option peut être utilisée pour désactiver complètement les signets dans toutes les applications.
+Vedran Mileti ć
+Il est recommandé d'enregistrer ou d'imprimer un certificat de révocation en cas de perte de clé.
+Saisissez un nom unique pour cette connexion
+Cacher les tâches non démarrées
+LEN( « KSpread ») renvoie 7
+Lorsque vous jouez au niveau de difficulté très élevé, les connexions se déplacent de gauche à droite et de haut en bas.
+Impossible de supprimer les cookies comme demandé.
+À tout moment, une carte peut être distribuée de la pioche vers la défausse.
+Sélectionne le numéro de pulse
+Les sélections restent même après un mouvement du curseur et une saisie.
+Distribuer une nouvelle carte
+Dernière passage d'une impression surélevée
+(C) 2004 Waldo Bastian
+Chercher et remplacer une chaîne ou une expression rationnelle par une autre chaîne
+La licence sous laquelle votre document sera développé. Si vous pensez contribuer à KDE dans le futur, une licence appropriée est requise.
+Cette version de l'exporteur ne peut pas gérer les fichiers multi-ouvrages.
+Choisir B partout
+Appliquer un style de cadre
+Ajouter automatiquement les expéditeurs de courriels que vous avez reçus à vos contacts.
+Ideogrammes linéaires B
+(C) 2008 Pino Toscano
+En cliquant sur l'en-tête d'une colonne, vous pouvez trier la liste par cette colonne.
+Construire cette cible
+Supprime la page courante de la présentation. Vous devrez confirmer cette action.
+Sélectionnez les parties du message qui seront citées dans la réponse
+Cette capture d'écran montre la différence entre deux fichiers textes
+Le trésor de l'Égypte
+Usage de Krusader: :Disk
+Appel d'un membre MainWindow sur un objet détruit
+Spécifiez l'adresse électronique de l'utilisateur qui vous a délégué, ou cliquez sur Utilisateur pour sélectionner l'utilisateur dans votre carnet d'adresses.
+Paramètres supplémentaires pour iconv() :
+Impossible de lancer le générateur de signature.
+YY - L'année, utilisant 2 chiffres.
+Type DNS non valide
+Il représente un progran écrit en LISP.
+Greffon prenant en charge Python
+Dessiner les arcs entrants
+millimètre carré; millimètres carrés; mm2; mm/ -2; mm^2; mm2amount in units (real)
+Configuration Jeu Type des as en haut
+Vue du paquetage de travail
+Créer une nouvelle collection de vin
+URLs plus récentes
+Vous ne pouvez créer des liens que sur des systèmes de fichiers locaux
+Aucune correspondance Le filtre ne correspond à aucun article, veuillez changer votre critère et essayer à nouveau.
+Réduire à 256 couleurs

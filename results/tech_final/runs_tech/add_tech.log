@@ -1,0 +1,17 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+technical test set 102 items
+test sentences also in training data: 0 []
+Loading weights:   0%|          | 0/398 [00:00<?, ?it/s]Loading weights: 100%|██████████| 398/398 [00:00<00:00, 13277.02it/s]
+  CLIP 102/102 images, 15s
+test images near-identical to a training pool image (cosine >= 0.9): 10
+   ('tech/001t.jpg', 'pool/02431.jpg', 0.902)
+   ('tech/003t.jpg', 'pool/00538.jpg', 0.921)
+   ('tech/006t.jpg', 'pool/04737.jpg', 0.908)
+   ('tech/011t.jpg', 'pool/00970.jpg', 0.95)
+   ('tech/018t.jpg', 'pool/01848.jpg', 0.911)
+   ('tech/019t.jpg', 'pool/00813.jpg', 1.0)
+   ('tech/020t.jpg', 'pool/01368.jpg', 0.986)
+   ('tech/022t.jpg', 'pool/03711.jpg', 0.977)
+   ('tech/030t.jpg', 'pool/03091.jpg', 0.987)
+   ('tech/047t.jpg', 'pool/05442.jpg', 0.913)
+add_tech done: 102 items, 102 new images

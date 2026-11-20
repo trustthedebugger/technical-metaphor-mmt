@@ -1,0 +1,102 @@
+Le fossé de bouteille est trop étroit.
+Le fossé de bouteille est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage a lieu au matin.
+Le plantage s'est produit au matin.
+Il s'est arrêté à nouveau ce matin.
+Il s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La clé est cassée.
+Le morceau est très mince.
+La puce est très fine.
+Appliquer le correctif ce soir.
+Appliquer le correctif en soirée.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est immense.
+Le Web est immense.
+Surveille le flux.
+Surveille le flux.
+Vérifiez le flux.
+Vérifie le flux.
+Le thread a été percé.
+Le thread a été bouché.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est cassé.
+Le centre est caché.
+Le langage est endommagé.
+La base est détruite.
+La poignée de main a été longue.
+La poignée de main a été longue.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifie le dépôt.
+Vérifiez le dépôt.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Prendre l'onglet.
+Prendre l'onglet.
+Cochez le journal.
+Vérifiez le journal.
+Le tableau de bord est plein.
+Le tableau de bord est plein.
+Le spool est vide.
+Le spool est vide.
+Le comptoir arrière est ouvert.
+Le comptoir arrière est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparus.
+Les morceaux de pain ont disparus.
+Le référentiel des ordures est occupé.
+Le référentiel des ordures est occupé.
+La cage est cassée.
+La cage est cassée.
+Le quai est vide.
+Le quai est vide.
+Le bloc de texte est trop petit.
+Le disque est trop petit.
+La bête est courbée.
+La bête est courbée.
+La tête est trop courte.
+La tête est trop courte.
+La barbe est cassée.
+La bûche est cassée.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le support.
+Impossible de trouver le support.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

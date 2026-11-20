@@ -1,0 +1,9 @@
+# Large or third-party files that are downloaded, not stored
+*.pt
+*.npy
+analysis/test2016_ref.fr
+analysis/commute_text/
+__pycache__/
+.ipynb_checkpoints/
+# Written by analysis/run_all.sh
+analysis/*.md

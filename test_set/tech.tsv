@@ -1,0 +1,103 @@
+id	term	sense	src	ref	incorrect	image	met_span	tgt_span	image_description	tgt_not
+001t	bottleneck	technical	The bottleneck is too narrow.	Le goulot d'étranglement est trop étroit.	Le goulot de la bouteille est trop étroit.	001t.jpg	bottleneck	goulot d'étranglement	diagram of a data pipeline or network with one narrow, congested stage	
+001l	bottleneck	literal	The bottleneck is too narrow.	Le goulot de la bouteille est trop étroit.	Le goulot d'étranglement est trop étroit.	001l.jpg	bottleneck	goulot de la bouteille|col de la bouteille	close-up photo of the neck of a glass bottle	
+002t	bug	technical	I found a bug.	J'ai trouvé un bogue.	J'ai trouvé un insecte.	002t.jpg	bug	bogue|bug	code editor screenshot with an error highlighted	
+002l	bug	literal	I found a bug.	J'ai trouvé un insecte.	J'ai trouvé un bogue.	002l.jpg	bug	insecte	photo of an insect on a surface	
+003t	crash	technical	The crash happened at noon.	Le plantage s'est produit à midi.	L'accident s'est produit à midi.	003t.jpg	crash	plantage|panne	screenshot of a system crash or fatal error dialog	
+003l	crash	literal	The crash happened at noon.	L'accident s'est produit à midi.	Le plantage s'est produit à midi.	003l.jpg	crash	accident	photo of a car accident	
+004t	freeze	technical	It froze again this morning.	Il s'est encore figé ce matin.	Il a encore gelé ce matin.	004t.jpg	freeze	planté|figé|bloqué	frozen computer screen with a busy cursor	
+004l	freeze	literal	It froze again this morning.	Il a encore gelé ce matin.	Il s'est encore figé ce matin.	004l.jpg	freeze	gelé	photo of frost on grass or a window	
+005t	key	technical	The key is broken.	La touche est cassée.	La clé est cassée.	005t.jpg	key	touche	computer keyboard with one broken key	
+005l	key	literal	The key is broken.	La clé est cassée.	La touche est cassée.	005l.jpg	key	clé|clef	photo of a broken metal door key	
+006t	chip	technical	The chip is very thin.	La puce est très fine.	La chips est très fine.	006t.jpg	chip	puce	photo of a microchip / integrated circuit	
+006l	chip	literal	The chip is very thin.	La chips est très fine.	La puce est très fine.	006l.jpg	chip	chips	photo of a potato chip	
+007t	patch	technical	Apply the patch tonight.	Appliquez le correctif ce soir.	Posez la rustine ce soir.	007t.jpg	patch	correctif|patch	software update / patch installation dialog	
+007l	patch	literal	Apply the patch tonight.	Posez la rustine ce soir.	Appliquez le correctif ce soir.	007l.jpg	patch	rustine	bicycle inner tube with a rubber repair patch	
+008t	shell	technical	Open the shell.	Ouvrez le terminal.	Ouvrez la coquille.	008t.jpg	shell	terminal|shell|interpréteur	command-line terminal window	
+008l	shell	literal	Open the shell.	Ouvrez la coquille.	Ouvrez le terminal.	008l.jpg	shell	coquille|coquillage	photo of a closed seashell or oyster	
+009t	trash	technical	Empty the trash.	Videz la corbeille.	Videz la poubelle.	009t.jpg	trash	corbeille	desktop recycle-bin / trash icon with files	
+009l	trash	literal	Empty the trash.	Videz la poubelle.	Videz la corbeille.	009l.jpg	trash	poubelle	photo of a full kitchen trash can	
+010t	firewall	technical	The firewall was damaged.	Le pare-feu a été endommagé.	Le mur coupe-feu a été endommagé.	010t.jpg	firewall	pare-feu	network diagram with a firewall between the internet and a LAN	
+010l	firewall	literal	The firewall was damaged.	Le mur coupe-feu a été endommagé.	Le pare-feu a été endommagé.	010l.jpg	firewall	mur coupe-feu|coupe-feu	photo of a concrete fire wall in a building	
+011t	web	technical	The web is huge.	Le Web est immense.	La toile d'araignée est immense.	011t.jpg	web	web|internet	diagram of the World Wide Web / linked web pages	
+011l	web	literal	The web is huge.	La toile d'araignée est immense.	Le Web est immense.	011l.jpg	web	toile d'araignée|toile	photo of a large spider web	
+012t	stream	technical	Watch the stream.	Regardez le direct.	Regardez le ruisseau.	012t.jpg	stream	direct|diffusion|stream	screenshot of a live video stream player	
+012l	stream	literal	Watch the stream.	Regardez le ruisseau.	Regardez le direct.	012l.jpg	stream	ruisseau|cours d'eau	photo of a small stream in a forest	
+013t	feed	technical	Check the feed.	Consultez le fil d'actualité.	Vérifiez la nourriture.	013t.jpg	feed	fil d'actualité|flux	screenshot of a social media news feed	
+013l	feed	literal	Check the feed.	Vérifiez la nourriture.	Consultez le fil d'actualité.	013l.jpg	feed	nourriture|aliment	photo of animal feed in a trough or bucket	
+014t	thread	technical	The thread got stuck.	Le fil d'exécution s'est bloqué.	Le fil s'est coincé.	014t.jpg	thread	thread|fil d'exécution	diagram of program threads / a deadlock	
+014l	thread	literal	The thread got stuck.	Le fil s'est coincé.	Le fil d'exécution s'est bloqué.	014l.jpg	thread	fil	photo of sewing thread caught in a machine	fil d'exécution
+015t	cache	technical	They found the cache.	Ils ont trouvé le cache.	Ils ont trouvé la cachette.	015t.jpg	cache	le cache|mémoire cache	diagram of CPU cache and memory hierarchy	
+015l	cache	literal	They found the cache.	Ils ont trouvé la cachette.	Ils ont trouvé le cache.	015l.jpg	cache	cachette	photo of a hidden stash or geocache box	
+016t	driver	technical	The driver is missing.	Le pilote est introuvable.	Le chauffeur est absent.	016t.jpg	driver	pilote	device manager window showing a missing driver warning	
+016l	driver	literal	The driver is missing.	Le chauffeur est absent.	Le pilote est introuvable.	016l.jpg	driver	chauffeur|conducteur	photo of an empty driver's seat in a bus	
+017t	hub	technical	The hub is broken.	Le concentrateur est cassé.	Le moyeu est cassé.	017t.jpg	hub	concentrateur|hub	photo of a USB or network hub	
+017l	hub	literal	The hub is broken.	Le moyeu est cassé.	Le concentrateur est cassé.	017l.jpg	hub	moyeu	photo of a bicycle wheel hub	
+018t	backbone	technical	The backbone is damaged.	La dorsale est endommagée.	La colonne vertébrale est endommagée.	018t.jpg	backbone	dorsale|réseau fédérateur	diagram of a network backbone connecting sub-networks	
+018l	backbone	literal	The backbone is damaged.	La colonne vertébrale est endommagée.	La dorsale est endommagée.	018l.jpg	backbone	colonne vertébrale	X-ray of a human spine	
+019t	handshake	technical	The handshake took a long time.	La négociation de la connexion a pris beaucoup de temps.	La poignée de main a duré longtemps.	019t.jpg	handshake	négociation|établissement de la connexion	sequence diagram of a TCP/TLS handshake	
+019l	handshake	literal	The handshake took a long time.	La poignée de main a duré longtemps.	La négociation de la connexion a pris beaucoup de temps.	019l.jpg	handshake	poignée de main	photo of two people shaking hands	
+020t	gateway	technical	The gateway is closed.	La passerelle est fermée.	Le portail est fermé.	020t.jpg	gateway	passerelle	network diagram with a gateway between two networks	
+020l	gateway	literal	The gateway is closed.	Le portail est fermé.	La passerelle est fermée.	020l.jpg	gateway	portail	photo of a closed garden gate	
+021t	bucket	technical	The bucket is full.	Le bucket est plein.	Le seau est plein.	021t.jpg	bucket	bucket|compartiment	cloud storage console showing a storage bucket	
+021l	bucket	literal	The bucket is full.	Le seau est plein.	Le bucket est plein.	021l.jpg	bucket	seau	photo of a full metal bucket	
+022t	socket	technical	The socket is damaged.	Le socket est endommagé.	La prise est endommagée.	022t.jpg	socket	socket|support	photo of a CPU socket on a motherboard	
+022l	socket	literal	The socket is damaged.	La prise est endommagée.	Le socket est endommagé.	022l.jpg	socket	prise	photo of a damaged wall power outlet	
+023t	wizard	technical	The wizard will guide you.	L'assistant vous guidera.	Le magicien vous guidera.	023t.jpg	wizard	assistant	screenshot of a software installation wizard	
+023l	wizard	literal	The wizard will guide you.	Le magicien vous guidera.	L'assistant vous guidera.	023l.jpg	wizard	magicien|sorcier	illustration of a wizard with a staff	
+024t	kernel	technical	The kernel is damaged.	Le noyau est endommagé.	Le grain est endommagé.	024t.jpg	kernel	noyau	diagram of an operating-system kernel between hardware and applications	
+024l	kernel	literal	The kernel is damaged.	Le grain est endommagé.	Le noyau est endommagé.	024l.jpg	kernel	grain	close-up photo of a corn kernel	
+025t	dump	technical	Check the dump.	Vérifiez le fichier de vidage mémoire.	Vérifiez la décharge.	025t.jpg	dump	vidage|dump	screenshot of a hexadecimal memory dump	
+025l	dump	literal	Check the dump.	Vérifiez la décharge.	Vérifiez le fichier de vidage mémoire.	025l.jpg	dump	décharge	photo of a landfill site	
+026t	clipboard	technical	Check the clipboard.	Vérifiez le presse-papiers.	Vérifiez le porte-bloc.	026t.jpg	clipboard	presse-papiers	screenshot of an operating-system clipboard panel	
+026l	clipboard	literal	Check the clipboard.	Vérifiez le porte-bloc.	Vérifiez le presse-papiers.	026l.jpg	clipboard	porte-bloc|porte-documents	photo of a physical clipboard with paper	
+027t	bookmark	technical	I lost the bookmark.	J'ai perdu le favori.	J'ai perdu le marque-page.	027t.jpg	bookmark	favori	browser bookmarks bar screenshot	
+027l	bookmark	literal	I lost the bookmark.	J'ai perdu le marque-page.	J'ai perdu le favori.	027l.jpg	bookmark	marque-page	photo of a paper bookmark in a book	
+028t	tab	technical	Pull the tab.	Faites glisser l'onglet.	Tirez la languette.	028t.jpg	tab	onglet	browser window with several tabs	
+028l	tab	literal	Pull the tab.	Tirez la languette.	Faites glisser l'onglet.	028l.jpg	tab	languette	photo of the pull tab on a drink can	
+029t	log	technical	Check the log.	Vérifiez le journal.	Vérifiez la bûche.	029t.jpg	log	journal|log	screenshot of a server log file	
+029l	log	literal	Check the log.	Vérifiez la bûche.	Vérifiez le journal.	029l.jpg	log	bûche	photo of a wooden log	
+030t	rack	technical	The rack is full.	La baie est pleine.	L'étagère est pleine.	030t.jpg	rack	baie|rack	photo of a server rack in a data centre	
+030l	rack	literal	The rack is full.	L'étagère est pleine.	La baie est pleine.	030l.jpg	rack	étagère|casier|portant	photo of a full wine rack or shelf	
+031t	spool	technical	The spool is empty.	La file d'attente d'impression est vide.	La bobine est vide.	031t.jpg	spool	file d'attente|spool	print queue window	
+031l	spool	literal	The spool is empty.	La bobine est vide.	La file d'attente d'impression est vide.	031l.jpg	spool	bobine	photo of an empty thread spool	
+032t	backdoor	technical	The backdoor is open.	La porte dérobée est ouverte.	La porte de derrière est ouverte.	032t.jpg	backdoor	porte dérobée	diagram of an attacker using a hidden access path into a system	
+032l	backdoor	literal	The backdoor is open.	La porte de derrière est ouverte.	La porte dérobée est ouverte.	032l.jpg	backdoor	porte de derrière|porte arrière	photo of an open back door of a house	
+033t	mailbox	technical	The mailbox is full.	La boîte de réception est pleine.	La boîte aux lettres est pleine.	033t.jpg	mailbox	boîte de réception|boîte mail	email client showing a full inbox / quota warning	
+033l	mailbox	literal	The mailbox is full.	La boîte aux lettres est pleine.	La boîte de réception est pleine.	033l.jpg	mailbox	boîte aux lettres	photo of a stuffed physical mailbox	
+034t	stick	technical	I lost the stick.	J'ai perdu la clé USB.	J'ai perdu le bâton.	034t.jpg	stick	clé usb	photo of a USB memory stick	
+034l	stick	literal	I lost the stick.	J'ai perdu le bâton.	J'ai perdu la clé USB.	034l.jpg	stick	bâton	photo of a wooden stick	
+035t	wallpaper	technical	I changed the wallpaper.	J'ai changé le fond d'écran.	J'ai changé le papier peint.	035t.jpg	wallpaper	fond d'écran	desktop screenshot showing the wallpaper settings	
+035l	wallpaper	literal	I changed the wallpaper.	J'ai changé le papier peint.	J'ai changé le fond d'écran.	035l.jpg	wallpaper	papier peint	photo of a wall with patterned wallpaper	
+036t	frame	technical	The frame is damaged.	La trame est endommagée.	Le cadre est endommagé.	036t.jpg	frame	trame	diagram of an Ethernet frame structure	
+036l	frame	literal	The frame is damaged.	Le cadre est endommagé.	La trame est endommagée.	036l.jpg	frame	cadre	photo of a damaged picture frame	
+037t	nut	technical	The nut is too small.	L'écrou est trop petit.	La noix est trop petite.	037t.jpg	nut	écrou	photo of a hexagonal metal nut on a bolt	
+037l	nut	literal	The nut is too small.	La noix est trop petite.	L'écrou est trop petit.	037l.jpg	nut	noix	photo of a walnut	
+038t	grid	technical	The grid is damaged.	Le réseau électrique est endommagé.	La grille est endommagée.	038t.jpg	grid	réseau électrique|réseau	map or diagram of an electrical power grid	
+038l	grid	literal	The grid is damaged.	La grille est endommagée.	Le réseau électrique est endommagé.	038l.jpg	grid	grille	photo of a damaged metal grille or fence	
+039t	breadcrumbs	technical	The breadcrumbs disappeared.	Le fil d'Ariane a disparu.	Les miettes de pain ont disparu.	039t.jpg	breadcrumbs	fil d'ariane	website header showing breadcrumb navigation	
+039l	breadcrumbs	literal	The breadcrumbs disappeared.	Les miettes de pain ont disparu.	Le fil d'Ariane a disparu.	039l.jpg	breadcrumbs	miettes	photo of breadcrumbs on a table	
+040t	garbage collector	technical	The garbage collector is busy.	Le ramasse-miettes est occupé.	L'éboueur est occupé.	040t.jpg	garbage collector	ramasse-miettes|garbage collector	diagram of memory garbage collection in a program heap	
+040l	garbage collector	literal	The garbage collector is busy.	L'éboueur est occupé.	Le ramasse-miettes est occupé.	040l.jpg	garbage collector	éboueur	photo of a refuse collector at a garbage truck	
+041t	cradle	technical	The cradle is broken.	La station d'accueil est cassée.	Le berceau est cassé.	041t.jpg	cradle	station d'accueil|socle	photo of a phone charging cradle	
+041l	cradle	literal	The cradle is broken.	Le berceau est cassé.	La station d'accueil est cassée.	041l.jpg	cradle	berceau	photo of a baby cradle	
+042t	dock	technical	The dock is empty.	Le dock est vide.	Le quai est vide.	042t.jpg	dock	dock|barre des applications	screenshot of an empty application dock on a desktop	
+042l	dock	literal	The dock is empty.	Le quai est vide.	Le dock est vide.	042l.jpg	dock	quai	photo of an empty harbour dock	
+043t	breadboard	technical	The breadboard is too small.	La plaque d'essai est trop petite.	La planche à pain est trop petite.	043t.jpg	breadboard	plaque d'essai|platine d'essai	photo of an electronics breadboard with components	
+043l	breadboard	literal	The breadboard is too small.	La planche à pain est trop petite.	La plaque d'essai est trop petite.	043l.jpg	breadboard	planche à pain|planche à découper	photo of a wooden bread board	
+044t	pin	technical	The pin is bent.	La broche est tordue.	L'épingle est tordue.	044t.jpg	pin	broche	close-up of a bent pin on a chip or connector	
+044l	pin	literal	The pin is bent.	L'épingle est tordue.	La broche est tordue.	044l.jpg	pin	épingle	photo of a bent sewing pin	
+045t	lead	technical	The lead is too short.	Le câble est trop court.	La laisse est trop courte.	045t.jpg	lead	câble|cordon|fil	photo of an electrical lead / cable	
+045l	lead	literal	The lead is too short.	La laisse est trop courte.	Le câble est trop court.	045l.jpg	lead	laisse	photo of a dog on a lead	
+046t	wafer	technical	The wafer is broken.	La plaquette est cassée.	La gaufrette est cassée.	046t.jpg	wafer	plaquette|wafer	photo of a silicon wafer	
+046l	wafer	literal	The wafer is broken.	La gaufrette est cassée.	La plaquette est cassée.	046l.jpg	wafer	gaufrette	photo of a wafer biscuit	
+047t	die	technical	The die is cracked.	La puce est fissurée.	Le dé est fêlé.	047t.jpg	die	puce|die	micrograph of a semiconductor die	
+047l	die	literal	The die is cracked.	Le dé est fêlé.	La puce est fissurée.	047l.jpg	die	dé	photo of a cracked dice	
+048t	jumper	technical	I can't find the jumper.	Je ne trouve pas le cavalier.	Je ne trouve pas le pull.	048t.jpg	jumper	cavalier|jumper	close-up of a jumper on motherboard pins	
+048l	jumper	literal	I can't find the jumper.	Je ne trouve pas le pull.	Je ne trouve pas le cavalier.	048l.jpg	jumper	pull|pull-over	photo of a knitted jumper / sweater	
+049t	jam	technical	Clear the jam.	Dégagez le bourrage.	Enlevez la confiture.	049t.jpg	jam	bourrage	printer with a paper jam warning	
+049l	jam	literal	Clear the jam.	Enlevez la confiture.	Dégagez le bourrage.	049l.jpg	jam	confiture	photo of jam spilled on a table	
+050t	tray	technical	The tray is empty.	Le bac est vide.	Le plateau est vide.	050t.jpg	tray	bac	photo of an empty printer paper tray	
+050l	tray	literal	The tray is empty.	Le plateau est vide.	Le bac est vide.	050l.jpg	tray	plateau	photo of an empty serving tray	
+051t	sink	technical	The sink is dirty.	Le dissipateur est sale.	L'évier est sale.	051t.jpg	sink	dissipateur|radiateur	photo of a dusty CPU heat sink	
+051l	sink	literal	The sink is dirty.	L'évier est sale.	Le dissipateur est sale.	051l.jpg	sink	évier	photo of a dirty kitchen sink	

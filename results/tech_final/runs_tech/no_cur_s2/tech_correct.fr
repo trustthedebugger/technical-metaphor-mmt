@@ -1,0 +1,102 @@
+Le raccourci est trop grand.
+Le raccourci est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le accident s'est produit au crépuscule.
+Le accident s'est produit au crépuscule.
+Il s'est arrêté à nouveau ce matin.
+Cela s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La touche est cassée.
+La puce est très mince.
+La puce est très mince.
+Appliquer le correctif en soirée.
+Appliquer le correctif en soirée.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été endommagé.
+Le pare-feu a été endommagé.
+Le Web est énorme.
+Le Web est immense.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le fil a été tronqué.
+Le fil a été tronqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le coffre est manquant.
+Le coffre est cassé.
+Le coffre est endommagé.
+Le coffre est endommagé.
+La poignée de main est longue.
+La poignée de main est longue.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez le cache.
+Vérifiez le cache.
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Afficher l'onglet.
+Afficher l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le chargement est plein.
+Le chargement est plein.
+Le spool est vide.
+Le spool est vide.
+L'auto-maintien est ouvert.
+L'auto-maintien est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu la balle.
+J'ai perdu la balle.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain sont disparus.
+Les morceaux de pain sont disparus.
+Le collectionneur de détritus est occupé.
+Le collectionneur de détritus est occupé.
+La cage est cassée.
+La cage est cassée.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le pain d'épice est trop petit.
+La touche est courbée.
+La touche est courbée.
+La ligne est trop courte.
+La voie est trop courte.
+Le shell est percé.
+Le shell est brûlé.
+Le dé est fissuré.
+Le dé est fissuré.
+Impossible de trouver le parapluie.
+Impossible de trouver le parapluie.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

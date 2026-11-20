@@ -1,0 +1,5 @@
+{
+  "best_val_bleu": 46.69,
+  "train_minutes": 45.6,
+  "trainable_params_M": 317.0
+}

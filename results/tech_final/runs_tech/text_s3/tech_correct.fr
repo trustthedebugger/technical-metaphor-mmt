@@ -1,0 +1,102 @@
+Le trou est trop étroit.
+Le trou est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au coucher du soleil.
+Le plantage s'est produit au coucher du soleil.
+Il s'est arrêté à nouveau ce matin.
+Il s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La touche est cassée.
+Le puce est très mince.
+Le puce est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est impressionnant.
+Le Web est impressionnant.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été enlisé.
+Le thread a été enlisé.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre de données est cassé.
+Le centre de données est cassé.
+La base est détruite.
+La base est détruite.
+La poignée de main a duré.
+La poignée de main a duré.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez le dépotoir.
+Vérifiez le dépotoir.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyez sur l'onglet.
+Appuyez sur l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le stand est plein.
+Le stand est plein.
+Le spool est vide.
+Le spool est vide.
+La barre d'état est ouverte.
+La barre d'état est ouverte.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le grain est trop petit.
+Le grain est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparus.
+Les morceaux de pain ont disparus.
+La benne à ordures est occupée.
+La benne à ordures est occupée.
+La cage est cassée.
+La cage est cassée.
+Le quai est vide.
+Le quai est vide.
+Le disque est trop petit.
+Le disque est trop petit.
+La bête est courbée.
+La bête est courbée.
+La tête est courte.
+La tête est courte.
+La bûche est cassée.
+La bûche est cassée.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le support.
+Impossible de trouver le support.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

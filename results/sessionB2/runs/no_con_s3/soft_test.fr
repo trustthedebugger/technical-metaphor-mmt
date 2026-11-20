@@ -1,0 +1,1000 @@
+La prochaine synchronisation sera une HotSync rationnelle.
+La liste des tâches sera ajoutée à la liste des tâches d'Evolution.
+Voici la liste de vos signets, pour un accès plus rapide
+Ignorer cet élément
+Ratio de partage maximum (0,0 sans limite)
+Liste des messages - Messages importants
+le roi de cœur
+Sélection restaurée par le bouton droit de la souris
+Fin de répartition
+Valeur attendue.
+Télécharger les opérations depuis l' établissement
+Configuration des couleurs
+Lien vers le support A/ V
+Enlevez les deux piques.
+Affiche un aperçu plein écran de l'écran d'un économiseur d'images.
+Diminuer l'utilisation du processeur par nombre de processeurs
+Une exception pour D-Bus s'est produite
+Cercle flou (3)
+Affiche la boîte de dialogue des options de diff pour définir le format et les options de diff.
+Le centre d'information est composé de plusieurs modules. Chaque module est une application séparée, mais le centre d'information trie toutes ces applications dans un endroit facile.
+Vous n'avez pas choisi de contact à exporter.
+Vous n'avez pas besoin de spécifier de répertoire pour le nom du fichier
+Erreur lors de l'obtention des informations du dossier.
+Ne pas citer
+Erreur de configuration Oxygen
+Paramètres de compte utilisant le répertoire Unix standard de spool mbox
+Fournit un moteur X11 pour la prise en charge des vidéos, ce qui permet une prise en charge complète de l'écran.
+Lancez la balle autour des flaques d'eau et dans le sable vers le trou pour continuer dans le trou du tutoriel suivant.
+aucune version définie (erreur du développeur)
+Annule l'affichage du message
+Envoyer ces informations sur une connexion indésirable ?
+Placer sur une table lumineuse
+Cliquez sur le bouton Comparer pour comparer les dossiers.
+Indique si le panneau d'aperçu est visible
+Refait l'action annulée
+Ragnar Norstedt Esaures
+Impossible de se connecter au serveur PostgreSQL.
+Choisissez ImageOuvrir et sélectionnez une image dans la boîte de dialogue Ouvrir une image.
+Active/ Désactive les opérations en ligne
+@@image: 'figures/banshee.png'; md5=THOUIS FAT
+Jeu de bombe interactive
+Joindre un seul mot entier
+SDL - Note
+Lavage de test - aperçu dans le studio
+La quantité ne doit pas être nulle. Veuillez saisir une valeur valable.
+Configuration Configurer la correction automatique...
+Si l'événement n'est pas un événement complet, indiquez une heure de début et une heure de fin.
+Section Fichiers temporaires :
+Aide pour le visionneur d'images de GNOME.
+Journal des messages d' Akonadi
+Éditer le dialogue de démarrage...
+Fuseau de montagne - S California, Nunavut, Nikaragua
+Sélectionnez une jolie copie d' imprimante
+Jouer à des jeux qui challengent votre raisonnement et votre réflexion
+Si vous voulez que le visionneur d'images soit le programme par défaut qui ouvre certains types de fichiers images :
+Onglet sélectionné : « contenu » ou « recherche »
+Copie l'élément sélectionné dans le presse-papiers, tout en laissant intact dans votre présentation.
+Définit la valeur d'une variable globale. Les variables globales existent pour la vie de la fenêtre Kommander.
+Une présentation avec un thème pour le ciel de soirée
+Dessine quelques dizaines de crocodiles volant autour de l'écran, avec des traces de couleur épaisse derrière eux. Écrit par Greg Leak.
+Réaction inconnue à cette invitation
+Fichier(s) ou URL(s) à ouvrir
+Création d'un contact
+Raccourcis clavier du terminal
+Débits par seconde m/s
+Il s'agit d'une entrée binaire. Il ne peut pas être modifié car son format est inconnu et spécifique à l'application.
+En appuyant sur Ctrl; V le contenu du presse-papiers sera collé dans l'affichage si le contenu du presse-papiers est valide.
+Taille de la fenêtre des paramètres audio
+Ajouter des participants, soit en saisissant leurs adresses électroniques dans la liste, soit en cliquant sur le bouton Inviter d'autres personnes.
+Fait apparaître le caractère suivant comme un aérodynamie
+Saisissez le chemin d'un élément de l'arborescence des projets
+L'application PGP4
+Si vous ne sélectionnez pas au moins un chiffrement, SSL ne fonctionnera pas.
+Si cette option est cochée, vous serez alerté lorsque vous saisissez un site SSL actif
+Impossible de créer la piste de libération
+Écrit par Davidson
+Ajout d'un thread JZ
+Notification du pianiste (modérée)
+Liste de toutes les peaks
+Diminuer l'indentation
+Vous n'avez pas sélectionné de clé de chiffrement pour l'un des destinataires. Ce dernier ne sera pas capable de déchiffrer le message si vous la chiffrez.
+Chaque page de ce document est décrite dans les sections ci-dessous.
+Obtention de la liste des commandes précédentes de Magnatune. com
+Basé sur une documentation fournie par Christian Ewen ale@kde. org
+Éditer la disposition du tableau
+Impossible d'analyser les coordonnées.
+Extraire des fichiers de l' archive
+(C) 2005 Jermain Waalsloh
+Pour supprimer une image que vous ne voulez plus, cliquez sur ÉditionMettre à la corbeille ou faites un clic droit sur l'image et sélectionnez Mettre à la corbeille.
+Ce journal a été publié
+Pont d'en-tête de Bartley
+Tiroir d'entrée - Option
+Impossible de charger la signature.
+Les dossiers sont automatiquement distribués en plusieurs colonnes. Le nombre de colonnes possible dépend de la largeur de la fenêtre de Konqueror et du nombre de signets que vous avez.
+Seconde capture d'écran de KMail
+Impossible de s'abonner à des dossiers IMAP en mode hors ligne.
+Supprimer le type d' exécution
+Tous les fichiers extraient le contenu complet de l'archive.
+Cliquez à nouveau sur la souris et la croix sera supprimée du plan.
+Le moteur CVS ne prend pas en charge la suppression de certificats. Vérifiez votre installation.
+Utiliser une connexion par défaut
+Ce menu contient les liens relatifs au document.
+Ajuster la sortie non obligatoire
+Aucun moteur chargé - les modules externes Akonadi ne peuvent être situés.
+Peut afficher des images
+Demander le répertoire de téléchargement
+Vous êtes abonné à un groupe de discussion moderé. Vos articles ne apparaissent pas immédiatement dans le groupe. Vous devez passer par un processus de moderation.
+Afficher les tâches payées au prochain mois@info: whatsthis
+Numérotation du disque primaire
+Pour sélectionner tous les fichiers dans une archive, choisissez ÉditionTout sélectionner ou appuyez sur CtrlA.
+Ce jeu ne peut pas fournir de suggestion.
+Ajouter aux signets
+Force les sous-dossiers générés à être de taille inférieure
+Insérer comme de nouveaux onglets
+Nombre de balles
+Vous n'avez choisi aucun élément pour le déplacer.
+Déplace les éléments sélectionnés vers le bas dans la liste de lecture
+C'est le réglage qui limite la taille de la liste de lecture.
+Si vous recherchez souvent quelque chose, vous pourriez préférer ne pas le saisir de nombreuses fois. Dans ce cas, vous pouvez utiliser les recherches enregistrées.
+Indique si l'espace disque doit être réservé avant de commencer à télécharger un torrent.
+Enlèvement des pièces jointes d'un courriel peut annuler sa signature.
+Élément de liste des membres
+Teste la connexion à une base de données. Vous pouvez vérifier que les informations de connexion valables sont fournies.
+Test avec un niveau prédéfini, vous choisissez
+Affiche les différences entre la ligne et le caractère par défaut (!),
+Pour définir la largeur maximale de la ligne (colonnes maximales par ligne). Utilisez l'option Couper des mots à la page d'édition de la boîte de dialogue de configuration.
+Sélectionnez le disque vide dans la liste déroulante.
+Enlève les fichiers du dépôt
+Saisissez le nom que vous voulez donner au disque une fois qu'il a été gravé.
+Le résultat de la fusion n'a pas été enregistré.
+Neigeратура modérée parfois accompagnée de pluieweather forecast
+Se connecter à ce cercle
+Jeu Nouveau raccourci clavier Ctrl; N
+Ce sous-menu contient tous les outils externes que vous avez configurés.
+Définit s'il faut réduire les vacances dans la vue mensuelle, ce qui fait apparaître la semaine, le dimanche et la journée dans l'espace d'un jour.
+Le format de courriel utilisé par Mozilla, Netscape, Evolution (pour les dossiers locaux jusqu'à la version 2.32), et beaucoup d'autres clients de messagerie.
+Raccourci pour glisser-déposer les actions du presse-papiers
+Aucun dossier de construction n'est configuré, il est impossible d'installer
+Activer pour utiliser des paramètres d'affichage des listes de messages similaires pour tous les dossiers
+Copyright 2002, 2002 Thomas Schmi Thomas. Schmi@gmx. lib
+La commande NNTP a échoué :
+Banshee affiche également vos vidéos préférées ( celles que vous regardez la plupart) et vos vidéos non regardées. Choisissez une vidéo et vous pouvez la lire depuis la liste.
+Définir les raccourcis UPI
+Aucun fichier n'a été choisi pour l'archivage.
+Pour modifier la taille de la table :
+Vos propres armes sont indignes de votre satellite comme d'un enneigé.
+La dernière option sur cette page est celle qui s'appelle Gestion de la volumes, décrite ci-dessous.
+Impossible de trouver le client Subversion
+Fichiers de dictionnaire de vocabulaire
+Effacer le contenu de tous les onglets ouverts
+Tout ce qui se passe à l'image dans l'éditeur d'images peut être annulé ou répété. Vous pouvez annuler l'action la plus récente en choisissant Édition Annuler, et annuler par Édition Annuler.
+Qualité du fichier de sortie
+Dans l'onglet cible de recherche, définissez l'emplacement de la recherche et l'action à réaliser si la recherche aboutit.
+Un domaine de machine mathématique
+En appuyant sur les touches Alt; Ctrl; W, l'assistant est maintenant ouvert.
+Le menu Aller
+Va jusqu'au flux précédent non lu dans la liste des flux
+Répéter un match dans les résultats de la recherche.
+Composant HTML de WebKit
+La connexion n'est pas valable.
+Crée un PDF vide en utilisant LibreOffice.
+Copie la sélection dans le presse-papiers. Cette action est utile si vous souhaitez coller la sélection dans une discussion ou un courriel.
+URL à utiliser pour télécharger la citation
+Afficher ce qui a été fait, mais ne pas exécuter. Ne pas insérer, supprimer ou modifier des fichiers existants, ni créer de nouveaux fichiers.
+Après avoir ajouté un drapeau, vous pouvez le marquer comme terminé ou le supprimer entièrement en cliquant avec le bouton droit de la souris sur le message, puis choisir Fichier terminé ou Effacer le drapeau.
+La fenêtre d'édition
+Comment avoir un accès seul en lecture
+Mettre en dessous les fenêtres
+Choisissez le fichier.
+Carnet de phrases initiale
+Dessine différentes formes, composées de sphères frénétiques, comme s'il s'agissait d'un appareil photo manœuvré par un singe au bout de la branche. Écrit par Tim Bernersley.
+Enregistrer le format du fichier pour l'opération de glisser-déposer
+Le pilote a été exporté avec succès.
+Ajout d'une course par intervalles.
+Informations sur Nintendo DS/ Meganite
+Nom du répertoire courant
+12 Mo de mémoire imprimante
+Impossible de changer la propriétaire de la ressource
+Impossible d'enregistrer automatiquement le fichier. Enregistrer manuellement le fichier est désactivé.
+Éléments de bloc d
+Activer la boîte à miniatures pour les nouveaux messages
+Retourne la taille de la police en points.
+Correction pour la recherche sur la page
+Soit fait l'ordre lógico.
+Vous devrez installer le paquet libslirc-devel. Une fois ce paquet installé, vous devrez afficher / configurer.
+Des informations d'impression sont manquantes
+Échec de la mise à jour du répertoire SVN.
+Comment obtenir de l'aide
+Vous avez peut-être démarré Evolution avec l'option --outils hors ligne.
+Déplacer un carré de Bézier
+Pluie ou oragesweather forecast
+Aller sur le terrain de jeu.
+Rétablir tous les dossiers
+Espacement entre les enfants
+Bascule l'affichage du Pluton
+Dessiner une bordure autour des diapositives
+Module d'annotation de régions de balises pour Nepomuk
+étiquettes des boutons de la barre d'outils :
+Plusieurs schémas peuvent être groupés en permanence. Une fois cette action faite, tous les changements apportés à un schéma seront affectés aux autres schémas.
+Fichier de journal où enregistrer les actions des filtres
+Modifier les valeurs d' ISBN/ TCP
+Contrôleur de bus OSD
+Se cacher automatiquement tous les messages qui ont déjà été lus
+Mise à jour de KDE4 avec la prise en charge des œuvres d'art SVG.
+Démon de formulaires Web
+Activer la réduction des sons
+Télécharger les couvertures manquantes
+(C) 2008, Aaron Seiko
+Orage, forte pluieweather condition
+Confirmation d'un partage de bureau (VNC)
+Outils Fin de ligne
+l'élément spécifie l'identifiant d'un fichier SVG. Si l'image SVG est vide, l'image entière de SVG sera affichée.
+lettre, 1200 x 600 ppp
+Le bouton Astuces
+Veuillez créer un certificat à partir d'une pièce jointe et la remettre à l'expéditeur.
+michael. pyne@kdemail. net
+Manuel de l'afficheur de journal
+Activer le filtre bascule
+Des cercles dans une grille
+Un nouveau gestionnaire de fenêtres s'exécute. Il est toujours recommandé de redémarrer cette session de KDE pour vérifier que toutes les applications en cours d'exécution s'adaptent à cette modification.
+Supprimer tous les sentiers
+Réinitialisation des codecs
+Chemin du sommet de la caméra
+Impossible d'écrire dans ce carnet d'adresses.
+Si vous avez récemment enregistré un projet, vous pouvez le ouvrir à nouveau par une des méthodes suivantes :
+Si vous le désirez, vous pouvez le faire pour que les images soient en plein écran lorsque vous double-cliquez sur elles dans le visionneur d'images.
+Définir tous les raccourcis vers seuls
+Sélectionner l'emplacement de la bibliothèque
+Insérer ce nombre de guides liés horizontalement.
+À la place d'autoriser le tracker à déterminer votre adresse IP, indiquez au tracker l'adresse IP à utiliser. Utilisez ceci si vous êtes derrière un serveur mandataire.
+Afficher ou masquer les opérations précédemment cochées
+Les objets de la liste d'observation seront mis en surbrillance par une étiquette de nom colorée dans la carte.
+Ce partage d'impression n'est pas accessible.
+Pour un récurrence périodique, vous pouvez choisir soit une date fixe, soit une position (pex; le second jeudi).
+Déplace l'élément sélectionné vers le haut
+Dans le menu Pages par côté, sélectionnez 2.
+Photos avec une étiquette
+Configuration Type de jeu Spider (matériel)
+À la page entière
+Assistant de démarrage Balsa
+Un guide de démarrage rapide du bureau
+Afficher ici les détails des événements, entrées de journal ou tâches sélectionnées dans la vue principale de KOrganizer.
+L'exécution du serveur MySQL a échoué.
+Supprimer les actions utilisateur sélectionnées
+Insère un graphique. Consultez la section Insertion d'un diagramme pour plus de détails.
+Configure les éléments que vous voulez mettre dans les barres d'outils.
+Mot de passe pour la connexion
+Crée une nouvelle collection de vocabulaire
+Saisissez le nom ou l'adresse IP du serveur contenant le service de répertoire.
+Civil - Compresseur verticalStencils
+Options Auto-connection
+Le code de langage associé au dictionnaire de complétion de mots actuel
+JOachim Lükowczech. kgm
+sept de carreau
+Propriétés d'accès pour chaque dossier servant par l'organisateur. Les emplacements sont relatifs à la racine du document.
+Erreur lors de l'ouverture du journal
+Ajouter des fonctionnalités de synchronisation et des threads parallèles pour les serveurs FTP arrêtés.
+Cliquez sur le bouton Appliquer ou continuez à faire la même chose avec les autres marques, s'il y en a, ou cliquez sur Valider pour terminer.
+Remplir les champs noms d'utilisateur et adresses électroniques ou sélectionner l'un des participants dans la liste ci-dessous pour l'éditer.
+(c) 2002-2003 Gunnar K. Petteri
+Bienvenue dans l'assistant de configuration des courriels d'Evolution. Cliquez sur « Suivant » pour commencer.
+Adresse du démon CUPS qui écoute. Laissez -le vide ou utilisez -le (*) pour spécifier une valeur de port sur l'ensemble de l'interface.
+Enregistre la liste de lecture actuellement sélectionnée. Pour enregistrer une marque que vous avez modifié, sélectionnez soit un autre élément, soit pressez Ctrl; T à la place.
+Purger les tâches terminées
+Outil d'édition du texte artistique
+Kexi créera un nouveau projet de base de données. Sélectionnez une méthode de stockage qui sera utilisée pour stocker le nouveau projet.
+Indique s'il faut utiliser l'option « -use-the-force-luke=dao » avec « faux ». Si l'option est désactivée, Brasero ne l'utilise pas.
+Vider les dossiers Pourriels en quittant
+L'heure en format 12 bits
+Barre d'adresses de KOrganizer@info
+Configurer le économiseur d' écran
+Trier un groupe de cellules
+Configuration La barre d'outils État (Kopete)
+Impossible de trouver le serveur Exchange. Assurez-vous que le nom du serveur est correct et essayez à nouveau.
+Aller à l'image suivante
+Vous avez ajouté une dalle vide, mais vous n'avez pas donné la valeur correcte.
+L'état du document
+Alt; Flèche à droite Affichage Suivant
+Estimation d'une nouvelle taille
+Travailler avec les fenêtres
+Importateur d'analogie pour Nepomuk
+Sélection d'une propriété pour une partie de variable
+600 ppp, top, couleur, cartouches noire et couleur.
+Un demi-cercle près de son point de départ, et un autre point quelque part.
+Aucune réserve sélectionnée.
+Modifier les propriétés du carnet d'adresses
+Ouvre l'éditeur, avec les paramètres nécessaires à la rédaction de nouveaux articles correspondant aux articles du forum actif.
+Pour compiler un fichier, choisissez l'élément de menu ConstruireCompiler ou appuyez sur F11. Ce dernier compile le fichier actif.
+Choisissez le nombre de colonnes ou de groupes d'alignement.
+Aller au panneau de l'éditeur de propriétés
+Tableau introuvable
+Extraire les fichiers
+Ctrl; Alt; G E Aller à Fin
+Utilisation des dossiers de recherche
+Démon de MPlayer d'Amarok
+Impossible de créer le greffon BMP
+Choisissez l'objet à traduire...
+Options de réception pour les comptes de courriels au format MDH.
+Le nouveau nom est le même que l'ancien, veuillez saisir un autre nom.
+Enregistrer la page sous...
+Modifier votre fichier ~/. vrc et ajouter les lignes suivantes.
+Options Utiliser le son
+Onglet de navigation précédent.
+Créer un fichier annuler
+Changement du joueur 2.
+Cette adresse est utilisée pour envoyer des messages vers la liste de diffusion. Elle est généralement une adresse électronique.
+composant graphique du tableau de bord de Mac
+Utiliser les informations indiquées ici pour se connecter sur des serveurs mandataires si nécessaire.
+Interrompre toutes les tâches en arrière-plan
+Le facteur de redimensionnement à appliquer aux fenêtres
+Sélectionne la PES
+Festival Lien (flexi)
+Ne pas penser aux éprouvettes, couleurs d'une page à une page
+Nombre de pauses courtes ignorées par l' utilisateur
+Dans cet exercice, vous devez comparer deux fractions données et choisir la valeur correcte de la fraction.
+Type 1C (TO)
+Dans le gestionnaire de données personnelles, vous pouvez voir les sites où les mots de passe ont été enregistrés et les supprimer.
+Modifier les entrées sélectionnées
+Le dossier spécifié n'existe pas ou n'a pas été lu.
+Le fichier XML n'a pas spécifié la source des images, c'est une confirmation que le fichier est corrompu.
+Activer cette option pour afficher l'aperçu et la résistance de l'appareil photo utilisés pour prendre l'image.
+Délai entre les notifications.
+Veuillez d'abord remplir la pile vide.
+Cochez cette option pour afficher la colonne récupérée.
+Depuis le menu
+Les unités de la cycliste variable « b »
+Démarrer manuellement la complétion de la commande, habituellement en utilisant un raccourci lié à cette action.
+Retourne une liste, séparée par un caractère de fin de ligne, de toutes les touches du tableau.
+Le serveur distant n'a pas accepté la tâche d'impression, probablement parce que l'imprimante n'est pas partagée.
+Enregistrer comme iCalendar...
+Prendre la durée de l' option
+Certaines données ont été perdues lors de la conversion.
+Périodicité de l' adresse électronique
+Pour ajouter une station de radio sur Internet à Banshee, appuyez sur Ajouter dans le coin supérieur droit de la fenêtre du menu ou, dans le menu, choisissez MenuAjouter à la station.
+26 juin 2005 Environnement de bureau KDE
+Afficher les ports MIDI avancés
+La validité de l'identifiant utilisateur est indéfinie.
+Cliquez sur le premier composant graphique de champ de texte en haut de la formulaire.
+Crée une paire de clés personnelles OpenPGP
+Ceci vous permet d'obtenir un élément de menu Outils Télécharger vers PicasaWeb.
+Impossible de créer l'interface utilisateur pour la liste des outils
+Descendre le filtre Ce bouton déplace le filtre sélectionné vers le haut dans la liste des filtres, vers le devant de la chaîne de filtrage.
+Information sur l'outil de ChunkBlock et le tri des éléments
+Quel type de fichier souhaitez-vous créer ?
+Vous pouvez utiliser les boutons Montrer et Descendre pour modifier l'ordre.
+Renommer un élément
+(C) 1998 - 2009 Andreas Štein
+Activer cette option pour afficher la note d'image.
+Joue la chanson précédente si une est disponible
+Saisissez l'élément de données en mode statistique
+Module générique de sélection de filtre pour KTS
+Calcul à partir d'un périphérique
+L'analyseur a atteint un seuil critique
+PNG a été obtenu de l' utilisateur
+New-York, New-York
+Pour trouver du texte dans le contact affiché, sélectionnez ÉditionRechercher dans le contact dans le menu principal.
+Remplacer la date actuellement sélectionnée par cette date.
+kg par pouce
+Utiliser l'affichage à l'écran
+Moteur de module pour le module d'interfaces
+Impossible de traiter les fichiers suivants à cause d'un format non pris en charge
+Indique s'il faut utiliser une densité géométrique pour la fonctionnalité de géométrie de date de découverte de Karzi
+Les fenêtres fermées tombent en morceaux
+Les options suivantes sont disponibles :
+Trouver les éléments correspondant aux conditions suivantes
+URL à connecter au démarrage
+Déplacer vers le dossier :
+Activer la vérification et la correction des erreurs de base.
+Combinaisons RVB (codes de couleurs)
+Si cette option est cochée, les noms, les tailles, les dates, les permissions, les propriétaires des fichiers et les propriétés du groupe s'affichent.
+Ajouter les fichiers à l'index
+Impossible de créer les informations de référentiel CVS
+Profil de couleurs pour l'affichage :
+Ajout de fichiers dans le référentiel SVN...
+Ceci enlève un espace (s'il existe) du début de la ligne où se trouve le curseur de texte ou du début de lignes sélectionnées.
+Historique du navigateur Web
+Ajouter un résumé détaillé à votre rendez-vous vous donnera une idée de ce que votre rendez-vous contient.
+Onglet par calendrier
+Page haut/ Page bas
+Configuration du compte de banque en ligne
+Supprimer le signet ou le sujet sélectionné
+Il y a six éléments que vous pouvez personnaliser.
+VARIABLE( « 14 ») renvoie 14
+Saisissez le nombre de fois que vous déclencherez l'alarme après son apparition initiale@info: whatsthis
+Ignorer le fichier. cvsrc (rekomendé)
+La position Y de la fenêtre de l'assistant.
+L'âge des événements et des tâches à archiver. Toutes les informations anciennes seront enregistrées et effacées, les plus récentes seront conservées.
+Copier la structure d'arrêt
+Si nécessaire, saisissez des informations sur les intérêts ou les charges ici. KMyMoney créera des opérations et les efface directement pour vous.
+Répartition de l'écran large
+Déplacement de contacts entre Metastatics
+Impossible de transporter le message.
+Configurer le partage de fichiers...
+Ajouts textuels, soustractions, multiplications et divisions.
+Dans l'historique, cliquez sur la barre correspondant au temps que vous souhaitez regarder.
+Vous avez modifié de nombreuses images. Pour éviter des problèmes de mémoire, vous devez enregistrer vos modifications.
+Souffrir souffrir souffrir
+Planifier une nouvelle alarme
+Sélectionner le thème
+Veuillez saisir une valeur
+Envoyer les notes, les fichiers d'étiquette !
+Cette valeur représente la vitesse utilisée dans ce contexte la dernière fois.
+Afficher la tâche sélectionnée
+Méthode d'étiquette par défaut des courriels
+Fournit des fonctionnalités et des services graphiques.
+Pour tous les emplacements qui ne sont pas définis séparément, le paramètre de l'emplacement au-dessus est valable.
+Configuration des extensions atomiques, de façon à ce que des extensions comme tar.gz s'affichent en tant que partie de la colonne Exécuter.
+trains internationaux
+Ouvre une boîte de dialogue vous permettant d'importer un paquet dans le dépôt. Voir.
+Code IDE de KDevelop
+Données à dessiner chaque seconde, quelle que soit la vitesse de déplacement du pointeur
+Cette option choisit si la taille du bande par défaut à gauche est en mégamètres (MB) ou en MB (GB).
+Vous pouvez aller à la première page du document en utilisant Ctrl; Home ou en utilisant Aller Dernière page.
+Le sélecteur au bas de la barre latérale vous permet de choisir entre les outils d'Evolution - Contacts, calendriers, agendas et tâches.
+Module externe de WMV pour Kate
+Type d'animation d'image. Les valeurs possibles sont 0 (variable), 1 (un seul passage), 2 (tout le temps), 2 (tout le temps)
+Raccourcis standards et Raccourcis globaux
+(c) 1998-2003, L'équipe de KDE
+Sélectionner le type d' impression
+Maintenant, placez vos troupes dans vos pays en cliquant sur les pays cibles.
+La description de la police par défaut, comme celle qui peut être analysée par Pango
+Nombre de photos en mode déclenchement
+Prise en charge de l'exécution des outils de couverture
+Conserver les entrées
+Une des fonctionnalités de installation, de suppression ou de liste est requise.
+Votre batterie a atteint le niveau d'alarme.
+(Dés)Activer/ désactiver la grille.
+Votre réponse à votre article
+Dans le gestionnaire de modules, sélectionnez l'onglet Configuration pour personnaliser vos modèles de messages. Vous pouvez ajouter, modifier ou supprimer les couples de valeurs de touches. Vous pouvez spécifier un certain nombre de couples de paires de valeurs de touches.
+Configuration des raccourcis clavier standards
+Vous pouvez décider ici si le pointeur de fichier doit afficher un aperçu de l'aperçu du fichier.
+Le format pour spécifier une valeur de clé personnalisée est : nom des valeurs de clés personnalisées séparées par ";".
+Envoyer un fichier depuis votre ordinateur à l'un de vos contacts.
+Module de comparaison textuelle OpenCalais
+Ouvre un fichier existant.
+Le temps indiqué n'est pas valide.
+Redimensionner un objet au-dessus d'un point, en fonction de la coordonnée donnée par la longueur de deux segments
+Texte et onglets
+Cliquez sur ce bouton pour fermer le fichier HTML actuellement ouvert.
+Sélecteur de source de tâche
+Groupe de synchronisation créé
+Ouvrir un thème enregistré...
+Cliquez sur le bouton Signets dans la barre d'outils de la fenêtre principale.
+Affichage simple d'Area
+Séparer les côtés (Ctrl+S).
+Sur les systèmes ne contenant qu'une seule ou plusieurs couleurs, certaines couleurs ne sont pas disponibles en forme pure. Sur certains systèmes, le bouton « Valeurs par défaut » choisira une couleur pure.
+Le texte de la balise
+Erreur lors du démarrage.
+Options de dessin d'objet
+Sélectionnez cette moitié de ligne
+Fenêtre du gestionnaire de clés
+Vous ne pouvez pas modifier une feuille protégée.
+Assistant de listes de Docbook
+Veuillez adapter les modifications de l'élément de thème (avec un nouveau nom) avant de tenter d'exporter le thème.
+Définir comment digiKam renomme les fichiers tandis qu'ils sont téléchargés.
+La classe de messages
+x:5: respawn: / usr/ X11/ bin/ xdm-poster
+CEN - Réseau d'archives détaillé Perl
+Authentification avec le serveur...
+Arrêter le service sélectionné
+Comportement lors du démarrage d'une application
+Vous pouvez définir ici combien de bureaux virtuels vous voulez sur votre bureau KDE.
+Accepte les relations d'exécution de KDE (entête, contenu, signaux...)
+Nommer automatiquement et numéroter automatiquement des séries d'images.
+Le numéro de la section n'a pas de point à la fin
+Indicateur d'anomalie de bloc d'entrée du clavier
+Modifier le nom et la couleur, puis cliquez sur Valider.
+Utiliser le fichier de configuration spécifié.
+Cisco - DSLAMStencils
+rapide, JR, ppt
+DB-208 (3 bacs)
+Hauteur de la fenêtre principale.
+Seuls les noms de fichiers doivent être fournis.
+Vérifie les messages sélectionnés pour les duplicatas
+Utilisez ce bouton pour afficher les informations générées sur ce plantage. @info/ rich
+Vous pouvez sélectionner le texte et la couleur de fond pour la ligne d'instruction, la ligne de saisie et la erreur de saisie.
+Ceci ouvre une boîte de dialogue.
+Outil d'édition d'images
+Aucun fichier image sélectionné
+Port du télescope INDI
+Disposition verticale (en séparateur)
+Modifier l' objet de la recherche
+Fait suivre le message sélectionné vers quelqu'un en tant que pièce jointe
+Format pour les images colorées (incluant les couleurs)
+On peut voir une entrée ici avant de l'ajouter à la collection actuelle en la sélectionnant dans la liste ci-dessous.
+Les mains sur les hanches.
+Impossible de supprimer l'événement à cause d'une erreur de clave
+Le nombre à remplacer par le point d'interrogation ?
+Page en haut
+Nombre de points de contrôle
+Les mots sont enveloppés dans les courriels sortants au 72e caractère
+Permet à Evolution d'afficher une partie du texte d'une taille limitée
+Définit la police utilisée par l' éditeur
+Un programme qui fusionne un ensemble de signets donnés dans la liste des signets de l'utilisateur.
+Créer un dossier de destination sans confirmation
+external ref='figures/pref-plugins-date.png' md5='5afgb5df46e6d0f6d0c0d0c0d0c0c0c0c0c0c0c0c0c0c0c
+Active la fenêtre principale du programme
+Aller à la dernière image de la galerie
+Modifier les polices, utiliser les couleurs et insérer des images, des tables et des liens.
+Supprimer un environnement sans les balises en arrière-plan.
+Cette commande n'est activée que si un périphérique est sélectionné et qu'une partition de ce périphérique est actuellement montée.
+Effacer sur Quitter
+Rotation de la photo à droite
+Déplacer une segmentation
+Cette fonction est contrôlée par Outils Affichage et vous permet de choisir les types d'élément qui seront affichés dans un dossier.
+Fichiers POV-Ray 3.1 (*. pov, *. inc)
+Nouveau fichier, projet et composants de projet.
+Pour réduire la vue d'une page, choisissez AffichageStencils.
+Saisissez le nom que vous voulez enregistrer sous, puis cliquez sur Enregistrer pour enregistrer le projet.
+Les deux tailles des tables sont différentes, après la lecture des fichiers journal.
+Les paramètres par défaut ne remplacent pas les paramètres précédemment ouverts des documents. Ils ne sont appliqués que aux documents ouverts les premiers.
+Vous pouvez afficher les différence entre les deux révisions du fichier sélectionné et celle du dernier changement...
+Il s'agit de l'élément racine du type de document de Conglomerate d'indikation.
+Quantités dans les comptes
+(dans un autre cadre)
+Informations sur les protocoles disponibles
+Dictionnaire des immigrants
+Menus et touches de raccourci
+Intel x86 (SUNM)
+Impossible de changer le type de livret sur les médias DVD+R non vides.
+Revenir à la télévision
+Impossible de créer la fenêtre de l'objet.
+Une application tente d'effectuer une action qui requiert des privilèges. L'authentification est requise pour réaliser cette action.
+Supprimer l' invitation sélectionnée
+Canon TMV 100
+Afficher le panneau d'édition du compte
+Afficher le nom du fichier dans la fenêtre du visionneur.
+Comportement lors d'un clic gauche dans la barre de titre ou le cadre d'une fenêtre active.
+Capture d'écran de la boîte de dialogue des couleurs
+Désactiver l'historique des lignes d'entrée
+Modifier les informations de l'autre prêt
+Enlevez le quatre de cœur.
+Chiffrer ce message avec PGP
+Batterie au niveau de l' avertissement
+Forte pluie, forte pluieweather condition
+Configure la politique du focus des fenêtres
+Réseau - BureauStencils
+écriture du fichier log
+Impossible de démarrer le serveur.
+En-tête différent pour les pages paires et inhabituelles
+Erreur lors de l'ouverture du document
+Activer les en-têtes de documents
+La ville à laquelle vous êtes situé, et éventuellement une deuxième ville.
+La quantité verticale de pixels nécessaire pour commencer à glisser-déposer
+Lancer le projet via KDEDbg
+Titres, trucs et conseils
+Déplacer l'onglet à gauche
+Définit la largeur des lignes représentant des tricots sur les axes.
+Ajout d'un point d'arrêt
+Sélectionnez la piste que vous voulez séparer en cliquant dessus, puis cliquez sur ÉditionSélectionner la piste ou faites un clic droit sur la piste et sélectionnez Séparer la piste dans le menu.
+Sélectionnez un des éléments sous le sous-menu Créer une règle à partir du message.
+Désactiver la gravure à l'élastique
+Active le téléchargement d'un article avec un identifiant d'article spécifié.
+Sélectionnez Ajouter dans le carnet d'adresses.
+Si le projet n'a pas été précédemment configuré, il sera automatiquement configuré avant de construire n'importe quel fichier.
+La quantité finale est nulle.
+Modifier le groupe de contacts
+Faites d'autres choses avec la calculatrice.
+Préfére le texte sélectionné avec des marques de citation.
+Nombre de chansons
+Modifie uniquement les paramètres de l'image du canal actuellement coché
+Dessiner une boîte en dessous
+Lorsque vous recevez une cadeau de niveau suivant, vous pourriez ne pas l'attraper si vous savez qu'il y a des cadeaux de vie dans le niveau.
+Enregistrement d'un message existant comme modèle
+Ouvre la boîte de dialogue de configuration des raccourcis.
+composant graphique du tableau de bord X
+Installation de nouveaux paquetages
+Cette commande ouvre l'éditeur d'entrées pour modifier une nouvelle entrée.
+(Dés)active l'affichage des caractères non imprimables
+Afficher l'aide de cette partie
+Vous pouvez voir ici l'aperçu des vignettes de la correction du reflet d'un motif de croix.
+anjuta n'a pas été capable de déterminer automatiquement l'encodage du fichier que vous voulez ouvrir.
+Afficher une boîte de message
+Enregistre la liste de lecture sous un nouveau nom
+Se désinscrire d'un dossier IMAP en cliquant avec le bouton droit de la souris dans l'arborescence des dossiers.
+Sélectionner une clé publique
+Un afficheur d'écran qui affiche des caractères japonais.
+Signature de l'assistant de SOAP :
+Impossible d'effectuer la recherche.
+Aperçu rapide dans une fenêtre séparée
+Chiffrer vos messages
+Cet assistant vous permet de modifier la sécurité sélectionnée.
+Outils Filtres par défaut
+Veuillez saisir des informations sur vous. Ces informations seront affichées et utilisées uniquement par vous. Les informations sont utilisées pour personnaliser KMoney, etc.
+Modifier les messages personnalisés...
+Comportement et soutien (l'employeur de Joadow zaczech en 2003-2004)
+Autoriser la compression BSD
+Importation pour Amarok, Jumbobox et iTunes
+Le temps d'activation du certificat est encore en cours.
+Dans cet exercice, vous devez mixer un nombre donné dans ses facteurs principaux. Vous devez saisir tous les facteurs principaux du nombre.
+Configuration du système Application externe
+Hauteur de la fenêtre principale.
+KPoker a été écrit par Havárie Feynman@users. sourceforge. net et Andreas Nikolai@gmx. net. Cette page du manuel fondée sur celle préparée pour Konqueror.
+Recherche d'informations sur la piste...
+$dcop ksnapshot -443 interface setup: / /home/ backend/ snapshot. jpg
+Le type de grille actuel n'autorise pas les cellules de grille.
+Aucune opération (wml)
+opensl est manquant
+Inspecter le contenu HTML (option de débogage)
+Voici une capture d'écran du module de configuration des polices
+Faites un tour du diagramme
+Impossible d'initialiser l'appareil photo. Vérifiez les paramètres de ports et de connexion à l'appareil et réessayez.
+Oui, gratuit, pas de lumière d'arrivée
+Lorsque vous cochez cette option, la commande d'état des fichiers est démarrée chaque fois que vous ouvrez une copie locale.
+Cacher les options avancées
+Type 1 (ID)
+Augmente la profondeur maximale
+Ouvre une nouvelle fenêtre.
+Aller à la ligne précédente
+Conversion des données Nepomuk
+N(3) renvoie 3.14
+Impossible d'envoyer le message : aucun destinataire défini.
+CtrlEAfficher -- Colle le contenu du presse-papiers à la position courante du curseur.
+La feuille d'impression par défaut imprime la collection avec les valeurs des champs en colonnes. Les en-têtes d'impression contrôlent si le titre du champ est imprimé en haut de la colonne.
+Vous n'avez pas de permission suffisante pour supprimer ce courriel.
+Taille maximum de la texture
+Si le document possède une table de contenu, un clic sur l'élément de contenu va faire apparaître la page reliée à cet élément.
+Désactiver les effets de bureau, si activé
+Style de ligne pour les nouvelles lignes. Cliquez pour sélectionner un style de ligne, ou définissez les paramètres du style de ligne avec Détails....
+Albums par cet artiste
+Prendre une photo en utilisant une webcam
+Supprime l'élément courant de la liste de lecture.
+À partir de la silhouette en haut à gauche, le cercle en bas à gauche se déplace vers le bas, le cercle en bas à gauche se déplace horizontalement et le cercle en haut à droite se déplace verticalement.
+Ne pas considérer les caches
+Choisissez une icône de connexion
+Indique s'il faut afficher les protocoles pour les contacts dans la liste des contacts.
+Cacher les assistants de peinture
+Les modèles pour la boîte de dialogue de rapport sont enregistrés dans $KDEHOME/ share/ apps/ questions-retours/.
+Choisissez Édition Supprimer. Vous pouvez aussi choisir Supprimer du menu contextuel du signet ou du sujet.
+Adapter à la zone imprimable
+Vous modifiez un événement récurrent. Que souhaitez-vous modifier ?
+Julian Leiner (assistant de premier lancement) admr@effacerreveal. dk
+Déplace le dossier vers un autre emplacement. Lorsque vous choisissez cet élément, Evolution offre un choix d'emplacements où déplacer le dossier.
+Modifier le contact sélectionné Vous verrez apparaître une boîte de dialogue permettant d'éditer les données stockées sur une personne, y compris les adresses et les numéros de téléphone.
+Indique s'il faut se reposer sur les fils de discussion par des sujets lorsque les messages ne contiennent pas de champs d'input-outils ou de références.
+Impossible d'enregistrer la liste des observateurs dans le fichier.
+Affichage d'images et de vidéos depuis la vue en vignettes
+Cliquez sur ce bouton pour supprimer la politique de l'hôte ou du domaine sélectionné dans la liste.
+Démarrage du curseur
+Recharger le fichier actuellement actif.
+Non linéaire ( chansons qui n'ont pas été vérifiées)
+Trouvez la valeur maximale du graphe dans une plage spécifiée.
+Pour plus d'informations sur RPM, visitez l'arborescence d'Album. org et lisez le guide RPM par Kevin-Rose.
+Données Afficher la zone...
+Les données trop grandes pour une seule impression. Veuillez enregistrer les journaux dans le fichier.
+Ouvre la liste d'historique de la ligne de commande.
+Le message lui-même. C'est un fragment de HTML.
+En appuyant sur ce bouton, vous calculez un paramètre éventuellement manquant pour votre prêt, ou vérifiez que les valeurs saisies correspondent à vos valeurs. Si quelque chose n'est pas correct, vous aurez des informations sur ce sujet.
+Le plus récemment ajouté
+Agenda dans un périphérique mobile
+Cette couleur est utilisée pour les marqueurs, les numéros de ligne et les bords de marqueur pliés dans le côté gauche de la vue de l'éditeur quand ils sont affichés.
+Afficher suivants x jours
+Ouvrir un document de vocabulaire dans un quiz à choix multiples
+Sélectionne le texte complet du document.
+Imprime un livret de 7 pages.
+Un style qui fonctionne bien avec des palettes de couleurs claires
+Mon station radio
+La pile est vide quand une commande POP a été rencontrée.
+Activer le rapport des erreurs qui se produisent lorsque le code JavaScript est exécuté.
+Cochez ensuite Enregistrer pour enregistrer la chaîne de radio Internet de Banshee.
+Crée une nouvelle page.
+Cliquez sur l'onglet proxy, puis sur Ajouter.
+Cette section contient des navigateurs divers que vous pouvez utiliser pour modifier l'agent utilisateur.
+Ils sont généralement pris à partir du dépôt Git, et nous les conservons tous les informations nécessaires (informations sur Bugzilla, page web, informations sur le mainteneur,...)
+KMobileTools a détecté avec succès les périphériques suivants. Veuillez sélectionner celui que vous voulez configurer.
+B/ Maj; B
+Ouvrir une liste de tâches
+Supprime un distant téléscope
+Recharger les données du profilage Ce module envoie également des nouveaux éléments créés.
+Afficher la notation IUPAC ancienne.
+Il y a deux boutons dans la liste des filtres :
+Séparer la piste en un nombre de parties fixe
+(obsolète) Style de virgule par défaut
+Moteur de contenu (chef de cache)
+Ajouter une courbe
+Modifier les propriétés du dossier Kolab...
+Conversion du fichier toc
+Cisco - MetroStencils
+Démarrer la lecture d'un CD quand un fichier est inséré.
+Corrections de module externe V4
+Si coché, la Vénus sera dessinée sur la carte.
+Vous devez indiquer un mot de passe.
+Déplacer un étiquette
+Architecture avancée de son Linux v0.9
+Déplacer une courbe de Bézier
+La fenêtre sur un autre bureau demande votre attention
+Le modèle de filtre pour le filtre
+Choisissez Extraire ici pour extraire tout le contenu de l'archive dans le dossier où elle est située.
+Affiche la boîte de dialogue de notes haute, contenant les notes précédentes.
+Supprime le type de fichier courant.
+Vérifier les autorisations du calendrier
+Informations sur le système de fichiers ISO-8859-1
+Aller dans le dossier...
+Toutes les propriétés contenues doivent correspondre à
+Le menu Fichier fournit un accès à des fonctions impliquant l'ensemble du calendrier.
+Harald Kreuzkirchen@carche. de pour l'introduction aux mysteries du démonstrateur de fichiers.
+M = 5 - 5 * * *( Notez qu'il vaut M quand l'o est 10).
+Quelqu'un veut envoyer un fichier au-dessus de DCC
+Intersection avec ce polygone
+La hauteur de la liste d'entrées.
+Ajouter les fichiers et dossiers souhaités à votre archive en cliquant sur + dans le bouton de la barre d'outils. Cochez la case à côté des fichiers et des dossiers que vous voulez ajouter.
+Liste d'options ajustées
+Impossible de charger l'image
+Qualité audio à utiliser pour la lecture de son
+Dossier contenant des tests, des dossiers de source et de sortie.
+Vous pouvez remplir ici le nom de votre projet. Par exemple, nous disons "Fonction". Lorsque vous remplissez "Fonction", le fichier est automatiquement rempli.
+Trier les fichiers en pause en dernier
+(c) 2005, Geert Hessens (c) 2006, Carlo Cornero, Carlo Cornero
+Dessine ce qui ressemble à un ruban agitant un chemin sinusoidal. Écrit par Brasero Vandenberg et Richard Vian.
+Nombre d'циклs historiques à utiliser dans la prévisualisation
+Éditeur de ressources X
+Afficher la barre d'onglets également si il n'y en a qu'un seul onglet ouvert.
+Tri des pistes de l'artiste
+Paquet RPM Linux
+Fenêtre du gestionnaire d'archives
+Valeur de la vitesse moyenne des cellules dans la formuleImprimer
+Qu'est-ce que votre nom d'utilisateur Windows Live ?
+Journal des procédures de groupe
+Pour activer le greffon Modèles de message, cliquez sur ÉditionPréférences et activez Modèles.
+skripte cache la tortue. Ceci peut être utilisé si la tortue ne correspond pas à votre dessin. skripte peut être réduit à sh.
+Les touches de fonctions seront visibles au démarrage.
+Appliquer la réserve sélectionnée
+Bordures d'avertissement prévisualisation des messages HTML
+Supprimer ou mettre à jour les mots de passe enregistrés ?
+Exécuter dans l'émulateur de terminal intégré
+Vérifier les nouveaux articles au démarrage
+télécharge automatiquement les articles de web et les montre à droite dans la carte
+Ajouter un bouton qui ouvrira un menu de configuration
+Jeu de stratégie géographique KDE
+Cliquez ici pour enregistrer la fenêtre actuelle
+Impossible de calculer lcm de 0.
+avec ce troisième point
+Chargement des informations du serveur...
+Impossible d'encoder le filtre dans le format de socket
+Indique si la fenêtre principale devrait démarrer maximisée.
+Noir sur blanc, c'est ce que vous voyez normalement.
+Si vous cliquez sur l'icône d'une page, la zone d'affichage sera ajoutée à cette page.
+Arrivée d'un stockage SMS
+Déplacer les signets vers le haut
+Tous les fichiers sont non pris en charge
+Subversion : récupération des différences
+Uniquement les entrées originales
+Renommer récursivement les dossiers
+Synchroniser le texte de XMP
+Capture à partir de l'encodeur
+Importer des données BibTeX...
+La largeur de la colonne en pourcentage de la largeur de la vue principale.
+pop3/ pop3s
+Adapter autant de fois que possible
+Le format du carnet d'adresses utilisé par GNOME, KDE et beaucoup d'autres applications de gestion de contacts. Vous devrez exporter ce format à partir de n'importe qu'elle application de carnet d'adresses.
+Choisissez un paquet pour l'afficher ici
+Exécuter un propulseur dans une fenêtre.
+Ce bouton supprime le mot sélectionné dans la liste des verbes.
+Choisir l'encodage du fichier source
+Dans la boîte de dialogue Ouvrir un document, sélectionnez le fichier à ouvrir.
+Supprime le texte sélectionné et le copie dans le presse-papiers.
+Quels sont les paramètres du courriel pour les courriels
+Fichier de contact sous
+Le menu Référentiel
+Sélectionne toutes les pages intégrales d'un document.
+Si la sélection Écraser est activée, le texte collé sera écrasé. Si c'est le cas, il sera écrasé.
+Si vous appuyez sur le bouton Créer, les données seront générées avec les paramètres que vous avez saisis ci-dessus et inséré dans un nouveau document.
+Activer la génération de tâches
+Cercle flou (17)
+Tout le monde impliqué dans KDE
+Modifier le répertoire LDAP
+Couleur, rapide, RVB
+Port du serveur mandataire HTTP sécurisé
+Supprimer des espaces inutiles dans l'image des miniatures
+utilisateur + mot de passe ( classique)
+Les sons apparaissent dans une ordre aléatoire.
+Configuration d'un pont sur le côté du client...
+Enregistrer les éléments dans les notes de package
+Ne pas afficher de boîtes de dialogue ; faites n'importe quel travail (pex, importation) et quitte
+Nombre de joueurs
+Indique l'emplacement d'un graphique, d'une image ou d'un tableau
+Bienvenue dans KBank. Cliquez pour démarrer une partie
+Tirer vers les shells...
+Valider le CSV (par l'URI)
+Afficher la liste des cellules actuelles
+Lorsque une connexion est établie et qu'elle est déconnectée, kppp essaiera de se connecter au même compte. Consultez ici pour en savoir plus sur ce sujet.
+chiffrement par clé publique
+Convertir le type du calque
+Événement intermédiaire - Lien
+Un économiseur d'écran affichant une télévision
+Activer cette option si vous voulez que les fichiers d'origine restent intacts.
+police de largeur variable
+Retourne le contenu du fichier donné.
+Définir ici le mot de passe du contact.
+Dans cette ligne, vous pouvez personnaliser ce qui se passe lorsque vous cliquez avec le bouton droit de la souris sur la barre de titre ou le cadre.
+Trouvez la valeur minimum du graphe dans une plage spécifiée.
+Les côtés d'un polygone
+L'afficheur d'aperçu présente les heures à gauche de la page
+Vous devez saisir un nom pour le partage de Samba.
+Sélectionner un fichier abstrait du projet
+Pour plus d'informations, consultez Envoi de courriel.
+Les canaux sont des programmes externes (probablement externes) qui effectuent des actions de synchronisation. Ils peuvent avoir des configurations individuelles. Choisissez un canapé pour le configurer et l'activer en cliquant sur sa case à cocher.
+Recharger les valeurs de la session
+Longueur de la ligne de réponse
+Envoyer le contenu de votre calendrier en public.
+fichiers. ui
+Fichier de configuration de réduction du bruit à charger
+Suivre les liens symboliques pendant le processus de comparaison.
+Lavinia lavinia@lavinia. fr pour la traduction italienne.
+Utiliser le message précédent
+Demander avant la suppression de tâches
+Le nom d'utilisateur est le nom utilisé pour l'autorisation sur le serveur IMAP.
+Prochaine pluieweather forecast
+Le module KFileReplace n'est utilisé que pour les fichiers locaux.
+Nouveau lei roux
+Saisissez ici le nom du sujet. La langue anglaise est utilisée si vous avez choisi un code de référence IPTC/ NAA standard. Ce champ est limité à 64 caractères ASCII.
+Fréquence est le mot-clé pour les questions les plus fréquemment posées.
+Capteurs RAW pris en charge
+Affiche l'icône pour remonter dans la liste de l'historique des emplacements.
+Expression rationnelle non valable.
+Cisco - HP MiniStencils
+Les copies des fichiers chiffrés ne peuvent pas être enregistrées ou imprimées.
+Couleur, Floyd-Steinberg, RB
+Je ne sais pas
+Nouveau type de page
+gigabit; gigabits carrés; gb2; gt/ -2; gb2; gb2
+Ouvrir silencieusement un torrent donné sur l'URL
+Téléchargement des URLs vers KGe
+Définir ici la valeur de la densité.
+La syntaxe avancée, jQuery, est également disponible.
+Analyser trois fichiers et voir où ils diffèrent.
+Insérer des espaces autour des officiers. Une fois les officiers rembourrés, les officiers restent rembourrés. Il n'y a pas d'option de officier sans bogue.
+Annuler les tâches en cours ou le traitement.
+Niveau du niveau 1
+Capture d'écran de la boîte de dialogue d'apparence du diagramme
+Couleur du cadre de l'image, icône affichée, barre de chargement, fléchettes d'aperçu
+Restauration verticale linéaire
+Indique si la case doit être surlignée sous la souris
+Choisissez une ligne parallèle au nouveau droite...
+Touche à appuyer pour déplacer à droite.
+Coupe la vue en deux panneaux
+Modification d'un mémo dans votre liste des mémos.
+Le type de serveur estHTTP
+Toutes les pistes découpées
+9,9 (congrès 3)
+Les tâches ne peuvent pas être associées.
+600 x 600 ppp, dépendances, qualité normale
+Veuillez patienter...
+Indique si les lignes des constellations sont cachées lorsque l'affichage est en mouvement.
+/ Affichage/ Tri/ Fin, date, heure, priorité
+Copie le dossier à un autre emplacement. Lorsque vous choisissez cet élément, Evolution offre un choix d'emplacements où copier le dossier.
+Barres, morceaux et signature de temps
+Outil de suivi du temps pour KDE
+Configuration de l'affichage (X11 Redimensionner, faire pivoter et redimensionner)
+Script à démarrer après une connexion
+Il y a déjà une action avec ce nom si vous n'avez pas d'action utilisateur, le nom est utilisé par Krusader pour une action interne
+Une obstruction graphique de KDE
+Nombre de poids
+Graphics Intellectes de Grandeurs
+Déclenchement de l'état « Absent du bureau »
+Document à indexer
+La note de début ne commence pas avec la commande PATH.
+Impossible d'écrire Browse
+Optimiser pour les fichiers imposants
+Infrastructure réseau via KIOS.
+Couleur, modification, évolution
+Désactiver le débit de la géométrie dans le journal Cogl.
+Vous pouvez spécifier si vous souhaitez trouver votre image ou votre vidéo à l'aide du moteur de recherche de Flickr
+Périphérique d'entrée audio
+L'onglet des comptes de la boîte de dialogue
+Nom d'hôte non valide
+Télécharger l'appel en cours
+Afficher les étiquettes de fermeture dans l' arborescence
+Site Web des jeux GNOME
+Pour les courriels, les mêmes règles pour la citation et la politisation s'appliquent comme pour l'envoi d'un article dans un forum.
+(amp;( courriel = *)) (ObjetClass=*) : liste les objets associés aux adresses électroniques.
+Suppression d'une signature
+Choisir un mode de rendu
+Résoudre instantanément le puzzle.
+La lecture peut continuer, mais le texte dans la sortie contiendra des espaces.
+Traiter les messages par sujet
+Un poisson dans un aquarium est enfermé.
+Recharger le source et refaire l'exécution du profil.
+Afficher le texte normal en arrière-plan normal
+Récupération de la liste des jeux...
+Graver l'image dans le DVD
+L'ordre des octets utilisé pour déchiffrer les valeurs.
+[X-*] section dans kdmrc
+Crée un nouvel événement pendant toute la journée
+Ouvre une boîte de dialogue existante
+Mode dépotoir (face vers le haut)
+1440 x 1440 ppp émulable
+La fonction SDL() renvoie la moyenne d'estimation fondée sur une donnée. La moyenne d'estimation est le nombre de valeurs déployées selon la valeur d'estimation.
+Modifie les paramètres du périphérique sélectionné
+Kard au premier lancement : 16 cartes par défaut et le thème est « couleurs ».
+Enregistrer le disque dans le dossier cible
+la date depuis
+Rechercher des événements avec un critère de correspondance
+sfp: / /
+Le premier joueur doit toujours être contrôleé par l'homme.
+Mot final à propos de l'auteur
+Configuration des sources LDAP
+Configuration des contacts Google avec Evolution
+La date du prochain versement est avant la date d'ouverture
+Efface toutes les cases à lettres.
+La boîte de dialogue de configuration.
+Résoudre les opérations de fichiers
+Nombre de vaches
+Cette commande enregistre tous les fichiers ouverts modifiés.
+Changer l'âge du projet (en jours) en choisissant un nouveau nombre de jours.
+Suivre le lien original
+Voici le nombre total de pauses longues que vous avez faites.
+Se connecter à une cible de débogage distante
+Couleurs de neige modérées
+Détails (visibilité, confidentialité, etc.)
+ls-lard / kde/
+Lancer K3b en tant qu'utilisateur racine
+Le caractère après lequel la liste des étiquettes doit être affichée
+--export-file nbsp;: export-file
+KPlayer est une partie de jeu d'action et de puzzles
+Modifier le serveur Bugzilla
+Utilisation de Utilisation pour la connexion abrégée
+L'installation de ce paquetage a été arrêtée par la configuration de votre système de packaging.
+Dans le menu principal, sélectionnez Construire pour installer tous les fichiers dans le même dossier que le fichier actuellement modifié.
+TLS est pris en charge et recommandé.
+Fichier ou icône d'URL
+Drapeaux du compilateur Yacc/ Beta
+Affiche l'historique.
+Toutes les options de configuration sont soit dans la boîte de dialogue de configuration soit dans les menus contextuels des vues.
+le processus gnome a échoué.
+La vitesse de chegada maximale pour cette connexion. Ceci n'affecte pas la vitesse de circulation actuelle, ni la manière dont Knemo affiche cette vitesse.
+Impossible de créer un fichier temporaire
+CHEMIN(1; « 1 »; « 2 ») renvoie « 1 »
+Configuration de la performance, partage des périphériques
+Une erreur s'est produite lors de la réorganisation du fichier.
+Cacher la barre de menu par défaut
+Facebook est l'un des réseaux sociaux les plus utilisés. Il permet aux utilisateurs de créer leur propre profil et de communiquer avec leurs amis.
+Zone de smash de la fenêtre :
+Couleur de la fonction 4
+Impossible de définir le critère de la ligne vide
+/ usr/ bin/ cv
+Il n'y a pas de sélection à compiler.
+Trouver suivant (Ctrl+N)
+Modification d'un fichier dans une archive avec une application personnalisée
+Connexion au serveur
+Ouvre l'emplacement où vous voulez placer les fichiers copiés.
+PILOT(A1: A3; B1: B3)
+(c) 2001 Corporation, Inc.
+Échec lors de la mise à jour des mémos.
+Le serveur sur lequel se connecter
+Créer des styles à partir de la sélection...
+Tableau pour la représentation :
+300 ppp, nuances de gris, cartouches noires et couleurs.
+La couleur du texte OSD.
+Permet d'insérer des fragments de code dans l'éditeur.
+Evolution s'est arrêté de façon inattendue pendant la rédaction d'un nouveau message. Le rechargement du message vous permet de continuer à vous déplacer à l'endroit indiqué.
+Barres d'outils Renommer la barre d'outils d'utilisateur...
+Cochez cette case pour changer les paramètres du style de police.
+Chaque section doit apparaître une seule fois, exception faite de la section CHEMINMAP qui peut apparaître aussi vite que nécessaire, si chaque occurrence utilise un unique Identifiant (vous pouvez continuer à lire pour plus de détails).
+4 / 4 chants de chants de rock 5
+La correction gamma.
+Seulement de petites croix dans la zone d'affichage.
+Créer un nouveau dossier de modèles
+Taille du bloc de morceaux pour le lecteur de disque. Pour les lecteurs de disque, la valeur devrait être 1280 x 800.
+Vous pouvez également définir quelles langues installées sont utilisées pour la vérification orthographique dans la liste disponible sous ÉditionPréférences orthographiquesPréférences orthographiques.
+Version de la bibliothèque du client
+Enregistrer le fichier après avoir été récupéré
+Ignorer les autorisations du répertoire parent
+Ce certificat a passé avec succès les tests de vérification.
+Traiter le champ d'artiste de fichier
+Si les deux joueurs finissent par 60 points, chaque partie se termine par un draw.
+/ usr/ bin/ kmt
+Contient une liste des flux actuellement installés.
+Impossible d'exécuter la requête suivante
+Vous pouvez modifier le nombre maximum de suggestions. Par défaut, c'est 10.
+Crée un courriel avec les photos sélectionnées (probablement redimensionnées) attachées
+Le découpage de CD-DVD nécessite que le « KIOS-Modifier » soit installé. Il fait partie de KDE - Multimédia.
+Veuillez sélectionner l'album de destination à partir de la bibliothèque de digiKam pour importer les images d'appareil photo vers celui-ci.
+URI de l'agenda surligné (par défaut)
+Ajouter des fichiers ou des dossiers à votre nouvelle archive.
+Importer depuis le service web Facebook
+Sélectionner la couleur
+La taille (largeur) de la barre latérale de la fenêtre principale.
+Appliquer toutes les différences entre la source et la destination.
+Vous pouvez désactiver le volet d'aperçu en basculant AffichageAperçu du message.
+L'outil de sélection sert à marquer les éléments pour la découpe et la glissière. Il s'agit de la même chose qu'un outil de sélection dans n'importe quel programme de dessin.
+Déplacer un objet
+Cette boîte de dialogue vous permet de choisir parmi divers paramètres prédéfinis qui sont considérés comme le standard de l'industrie dans certains aspects.
+(Dés)active la création avancée d'annotations
+Réduit une sélection rectangulaire
+La section la plus sombre en noir pure
+Cliquez sur le bouton de la barre d'outils Points de vue de la journée ou choisissez l'élément de menu Point de vue de la journée. Cela affichera la vue de la journée.
+Sous Charge, sélectionnez l'option Pages et saisissez : 1
+Une autre opération de suppression de clé est en cours. Veuillez patienter jusqu'à ce que cette opération soit terminée.
+Indiquer votre site Web favori
+Si cette case est cochée, le clic gauche de la souris sélectionne un élément et ne désélectionne pas d'autres éléments déjà sélectionnés.
+Modifier manuellement les coordonnées GPS des images sélectionnées dans la liste.
+Description, qui couvre généralement la pomme de l' extension
+Unindenteur pour la langue de traduction Beagle pour la musique.
+arctic spark, arctic sparks, arctic sparks, arctic
+eog -- slide-show images/
+Répertoire de configuration introuvable
+Saisissez ici un nouveau mot-clé.
+Le menu Lancer
+Ce dossier de type de mot contient des noms féminins.

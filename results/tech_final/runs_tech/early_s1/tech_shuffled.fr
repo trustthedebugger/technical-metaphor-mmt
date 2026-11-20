@@ -1,0 +1,102 @@
+Le bottleneck est trop étroit.
+Le bottleneck est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit à la noon.
+Le plantage s'est produit à la noon.
+Il a rebondi à nouveau ce matin.
+Il a rebondi à nouveau ce matin.
+La touche est cassée.
+La clé est cassée.
+La puce est très fine.
+La puce est très fine.
+Appliquer le correctif en soirée.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est énorme.
+Le Web est énorme.
+Surveillez le flux.
+Surveillez le flux.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été bloqué.
+Le thread a été bloqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le câble est cassé.
+Le hub est cassé.
+La paroi arrière est endommagée.
+La paroi arrière est endommagée.
+La poignée de main a été longue.
+La poignée de main a été longue.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez la corbeille.
+Vérifiez la corbeille.
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Tire l'onglet.
+Tire l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le chariot est plein.
+Le stand est plein.
+La barrière est vide.
+La barrière est vide.
+La porte arrière est ouverte.
+L'arrière-cour est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le beurre est trop petit.
+Le beurre est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les pattes de pain ont disparues.
+Les pattes de pain ont disparues.
+Le collecteur des ordures est occupé.
+Le collecteur des ordures est occupé.
+La cravate est cassée.
+La cravate est cassée.
+Le quai est vide.
+Le quai est vide.
+La planche à pâtisserie est trop petite.
+La planche à pâtisserie est trop petite.
+La quille est courbée.
+La quille est courbée.
+La tête est trop courte.
+La courbe est trop courte.
+Le surfeur est cassé.
+Le surfeur est cassé.
+La copie (dé) est corrompue.
+La copie (dé) est corrompue.
+Impossible de trouver le jumper.
+Impossible de trouver le jumper.
+Effacer le morceau.
+Effacer la bouée.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

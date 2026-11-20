@@ -1,0 +1,102 @@
+Le trou de la bouteille est trop grand.
+Le trou de la bouteille est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au déjeuner.
+Le plantage s'est produit au déjeuner.
+Elle s'est arrêtée à nouveau ce matin.
+Elle s'est arrêtée à nouveau ce matin.
+La clé est cassée.
+La clé est cassée.
+Le morceau est très mince.
+Le morceau est très mince.
+Appliquer le correctif le soir.
+Appliquer le correctif le soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été détruit.
+Le pare-feu a été détruit.
+Le Web est énorme.
+Le Web est énorme.
+Surveiller le ruisseau.
+Surveiller le ruisseau.
+Vérifier le flux.
+Vérifier le flux.
+Le thread a été caché.
+Le thread a été caché.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le curseur est cassé.
+Le curseur est cassé.
+Le squelette est manquant.
+Le squelette est manquant.
+Le temps de poignée de main a été long.
+Le temps de poignée de main a été long.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est manquante.
+La socket est manquante.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est manquant.
+Le noyau est manquant.
+Vérifiez le journal.
+Vérifiez le journal.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Cliquez sur l'onglet.
+Cliquez sur l'onglet.
+Vérifier le journal.
+Vérifier le journal.
+Le stand est plein.
+Le stand est plein.
+Le dossier est vide.
+Le dossier est vide.
+Le démarrage est ouvert.
+Le démarrage est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+Je viens de modifier le fond d'écran.
+Je viens de modifier le fond d'écran.
+Le cadre est manquant.
+Le cadre est manquant.
+Le morceau est trop petit.
+Le morceau est trop petit.
+La grille est cassée.
+La grille est cassée.
+Les morceaux de pain ont disparus.
+Les morceaux de pain ont disparus.
+Le référentiel des ordures est occupé.
+Le référentiel des ordures est occupé.
+La sonde est cassée.
+La sonde est cassée.
+Le quai est vide.
+Le quai est vide.
+Le plat est trop petit.
+Le plat est trop petit.
+La touche est courbée.
+La touche est courbée.
+La piste est trop courte.
+La piste est trop courte.
+Le cookie est abimé.
+Le cookie est abimé.
+Le dé est fissuré.
+Le dé est fissuré.
+Impossible de trouver le pilote.
+Impossible de trouver le pilote.
+Effacer le corbeille
+Effacer le corbeille
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

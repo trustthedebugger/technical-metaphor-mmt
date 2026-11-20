@@ -1,0 +1,102 @@
+Le corbeille est trop grand.
+Le corbeille est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au crépuscule.
+Le plantage s'est produit au crépuscule.
+C'est à nouveau rafraîchissant ce matin.
+C'est à nouveau rafraîchissant ce matin.
+La touche est cassée.
+La touche est cassée.
+Le chips est très mince.
+Le chips est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est manquant.
+Le pare-feu est manquant.
+Le Web est gigantesque.
+Le Web est gigantesque.
+Surveiller le flux.
+Surveiller le flux.
+Vérifier le flux.
+Vérifier le flux.
+Le thread a été tacheté.
+Le thread a été tacheté.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est corrompu.
+Le centre est corrompu.
+La base de données est cassée.
+La base de données est cassée.
+La poignée de main a dû prendre un peu de temps.
+La poignée de main a dû prendre un peu de temps.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est cassée.
+La socket est cassée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est manquant.
+Le noyau est manquant.
+Vérifier le dossier.
+Vérifier le dossier.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+Le signet a été perdu.
+Le signet a été perdu.
+Appliquer l'onglet.
+Appliquer l'onglet.
+Vérifier le journal.
+Vérifier le journal.
+Le stand est plein.
+Le stand est plein.
+Le flux est vide.
+Le flux est vide.
+Le raccourci clavier est ouvert.
+Le raccourci clavier est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est touchée.
+La grille est touchée.
+Les morceaux de jambon ont disparu.
+Les morceaux de jambon ont disparu.
+La collection d'ordures est occupée.
+La collection d'ordures est occupée.
+La caisse est cassée.
+La caisse est cassée.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le plateau est trop petit.
+La touche est courbée.
+La touche est courbée.
+La fin est trop courte.
+La fin est trop courte.
+La barbe est brûlée.
+La barbe est brûlée.
+Le disque est corrompu.
+Le disque est corrompu.
+Impossible de trouver le pilote.
+Impossible de trouver le pilote.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

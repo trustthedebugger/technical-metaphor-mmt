@@ -1,0 +1,102 @@
+Le corbeille est trop grand.
+Le corbeille est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au déjeuner.
+Le plantage s'est produit au déjeuner.
+Ceci s'est affalé à nouveau au matin.
+Ceci s'est affalé à nouveau au matin.
+La touche est cassée.
+La touche est cassée.
+La puce est très petite.
+La puce est très petite.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est immense.
+Le Web est immense.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été attaché.
+Le thread a été attaché.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est cassé.
+Le centre est cassé.
+La tige est endommagée.
+La tige est endommagée.
+La poignée de main est longue.
+La poignée de main est longue.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez le cache.
+Vérifiez le cache.
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyer sur l'onglet.
+Appuyer sur l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le disque est plein.
+Le stand est plein.
+Le spool est vide.
+Le spool est vide.
+L'en-tête de sécurité est ouvert.
+L'interface de sécurité est ouverte.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu la balle.
+J'ai modifié le fond d'écran.
+Jeu de fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparu.
+Les morceaux de pain ont disparu.
+Le gestionnaire de détritus est occupé.
+Le gestionnaire de détritus est occupé.
+La cage est cassée.
+La cage est cassée.
+Le quai est vide.
+Le quai est vide.
+Le pain d'épice est trop petit.
+Le pain d'épice est trop petit.
+La socket est courbée.
+La socket est courbée.
+La tête est trop courte.
+La tête est trop courte.
+La tige est cassée.
+La tige est cassée.
+Le dé est cassé.
+Le dé est cassé.
+Impossible de trouver le télésiège.
+Impossible de trouver le télésiège.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

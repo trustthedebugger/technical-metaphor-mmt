@@ -1,0 +1,102 @@
+Le raccourci est trop étroit.
+Le raccourci est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au lever du soleil. @info
+Le plantage s'est produit au lever du soleil.
+Il s'est arrêté à nouveau ce matin.
+Il s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La clé est cassée.
+Le morceau est très mince.
+Le morceau est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été détruit.
+Le pare-feu a été détruit.
+Le Web est énorme.
+Le Web est immense.
+Afficher le ruisseau.
+Afficher le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le fil d'exécution a été tronqué.
+Le fil d'exécution a été tronqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le socket est caché.
+Le centre est cassé.
+La socket est cassée.
+La socket est cassée.
+La prise de la main a été longue.
+La prise de main s'est terminée à un long moment.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est cassée.
+La socket est cassée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est manquant.
+Le noyau est détruit.
+Vérifiez le dossier.
+Vérifiez le dossier de stockage.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Cliquez sur l'onglet.
+Tirer l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le moniteur est plein.
+Le chariot est plein.
+Le spool est vide.
+Le flux est vide.
+Le raccourci est ouvert.
+Le raccourci est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai changé le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est abimé.
+Le cadre est abimé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est détruite.
+La grille est détruite.
+Les morceaux de pain ont disparu.
+Les crevettes ont disparues.
+Le référentiel des ordures est occupé.
+Le détectiveur d'ordures est occupé.
+La mère est cassée.
+La pochette est cassée.
+Le quai est vide.
+Le quai est vide.
+Le disque est trop petit.
+Le pain d'épice est trop petit.
+La touche est courbée.
+La touche est courbée.
+Le chemin est trop long.
+Le chemin est trop long.
+La bière est brisée.
+La bière est cassée.
+Le débit est corrompu.
+Le dé n'est pas corrompu.
+Impossible de trouver le pilote.
+Impossible de trouver le chariot.
+Vider le corbeille.
+Effacer le corbeille.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

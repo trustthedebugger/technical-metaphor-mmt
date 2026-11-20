@@ -1,0 +1,102 @@
+Le fossé est trop étroit.
+Le fossé est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au matin. @info/ rich
+Le plantage s'est produit au matin. @info/ rich
+C'est à nouveau gelé ce matin.
+C'est à nouveau gelé ce matin.
+La touche est cachée.
+La touche est cachée.
+La puce est très mince.
+La puce est très mince.
+Appliquer le correctif cette nuit.
+Appliquer le correctif cette nuit.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu est endommagé.
+Le pare-feu est endommagé.
+Le Web est énorme.
+Le Web est énorme.
+Surveille le flux.
+Surveille le flux.
+Cochez le flux.
+Cochez le flux.
+Le thread a été coincé.
+Le thread a été coincé.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est caché.
+Le centre est caché.
+La base est endommagée.
+La base est endommagée.
+La poignée de main a duré.
+La poignée de main a duré.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Cochez la corbeille.
+Cochez la corbeille.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Retourne l'onglet.
+Retourne l'onglet.
+Cochez le journal.
+Cochez le journal.
+Le support est plein.
+Le support est plein.
+Le spool est vide.
+Le spool est vide.
+Le raccourci clavier est ouvert.
+Le raccourci clavier est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noix est trop petit.
+Le noix est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain sont tombés.
+Les morceaux de pain sont tombés.
+Le gestionnaire d'ordures est occupé.
+Le gestionnaire d'ordures est occupé.
+La mère est cachée.
+La mère est cachée.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le plateau est trop petit.
+La roue est courbée.
+La roue est courbée.
+La tête est trop courte.
+La tête est trop courte.
+La gaufre est cachée.
+La gaufre est cachée.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le pare-brise.
+Impossible de trouver le pare-brise.
+Effacer le bogue
+Effacer le bogue
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

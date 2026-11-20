@@ -1,0 +1,39 @@
+{
+  "best_val_bleu": 63.94,
+  "train_minutes": 99.7,
+  "trainable_params_M": 317.0,
+  "test2016_correct": {
+    "bleu": 66.1,
+    "chrf": 79.16
+  },
+  "test2016_shuffled": {
+    "bleu": 65.88,
+    "chrf": 78.95
+  },
+  "test2016_blank": {
+    "bleu": 65.63,
+    "chrf": 78.95
+  },
+  "commute_accuracy": 49.68,
+  "soft_test": {
+    "bleu": 41.4,
+    "chrf": 62.72
+  },
+  "tech_contrastive_accuracy": 50.98,
+  "tech_contrastive_accuracy_blank": 50.0,
+  "tech_correct": {
+    "bleu": 32.02,
+    "chrf": 50.18,
+    "auto_mta": 32.35
+  },
+  "tech_shuffled": {
+    "bleu": 32.21,
+    "chrf": 50.1,
+    "auto_mta": 32.35
+  },
+  "tech_blank": {
+    "bleu": 31.24,
+    "chrf": 49.81,
+    "auto_mta": 32.35
+  }
+}

@@ -1,0 +1,102 @@
+Le crocodile est trop étroit.
+Le crocodile est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit à la tombée du jour.
+Le plantage s'est produit à la tombée du jour.
+L'herbe s'est arrêtée à nouveau ce matin.
+L'herbe s'est arrêtée à nouveau ce matin.
+La clé est cassée.
+La clé est cassée.
+Le chip est très mince.
+Le chip est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a étégâté.
+Le pare-feu a étégâté.
+Le Web est énorme.
+Le Web est énorme.
+Afficher le ruisseau.
+Afficher le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été tronqué.
+Le thread a été tronqué.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est rompu.
+Le centre est rompu.
+La base est endommagée.
+La base est endommagée.
+La pose de la main a échoué.
+La pose de la main a échoué.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est endommagé.
+Le noyau est endommagé.
+Vérifiez le dossier.
+Vérifiez le dossier.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyez sur l'onglet
+Appuyez sur l'onglet
+Vérifiez le journal.
+Vérifiez le journal.
+La caisse est pleine.
+La caisse est pleine.
+Le spool est vide.
+Le spool est vide.
+Le portage est ouvert.
+Le portage est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noix est trop petit.
+Le noix est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+Les morceaux de pain ont disparu.
+Les morceaux de pain ont disparu.
+La benne à ordures est occupée.
+La benne à ordures est occupée.
+La cage est rompue.
+La cage est rompue.
+Le quai est vide.
+Le quai est vide.
+Le plateau est trop petit.
+Le plateau est trop petit.
+La touche est courbée.
+La touche est courbée.
+La ligne est trop courte.
+La ligne est trop courte.
+Le beurre est brûlé.
+Le beurre est brûlé.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le parachute.
+Impossible de trouver le parachute.
+Effacer le brouillard.
+Effacer le brouillard.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

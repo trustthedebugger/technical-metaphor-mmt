@@ -1,0 +1,102 @@
+Le puits est trop étroit.
+Le puits est trop étroit.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit au matin.
+Le plantage s'est produit au matin.
+Il s'est arrêté à nouveau ce matin.
+Il s'est arrêté à nouveau ce matin.
+La touche est cassée.
+La touche est cassée.
+Le puce est très mince.
+Le puce est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été percuté.
+Le pare-feu a été percuté.
+Le Web est énorme.
+Le Web est énorme.
+Surveille le ruisseau.
+Surveille le ruisseau.
+Vérifiez le flux.
+Vérifiez le flux.
+Le thread a été attaché.
+Le thread a été attaché.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+Le centre est caché.
+Le centre est caché.
+La structure est détruite.
+La structure est détruite.
+La poignée de main a du temps.
+La poignée de main a du temps.
+La passerelle est fermée.
+La passerelle est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est endommagée.
+La socket est endommagée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est corrompu.
+Le noyau est corrompu.
+Vérifiez le dépotoir.
+Vérifiez le dépotoir.
+Cochez le presse-papiers.
+Cochez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Appuyer sur l'onglet.
+Appuyer sur l'onglet.
+Vérifiez le journal.
+Vérifiez le journal.
+Le support est plein.
+Le support est plein.
+Le spool est vide.
+Le spool est vide.
+Le cache arrière est ouvert.
+Le cache arrière est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+J'ai modifié le fond d'écran.
+J'ai modifié le fond d'écran.
+Le cadre est endommagé.
+Le cadre est endommagé.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est endommagée.
+La grille est endommagée.
+La pâte brisée a disparu.
+La pâte brisée a disparu.
+Le détective des ordures est occupé.
+Le détective des ordures est occupé.
+La poitrine est cassée.
+La poitrine est cassée.
+Le quai est vide.
+Le quai est vide.
+Le disque est trop petit.
+Le disque est trop petit.
+La bête est courbée.
+La bête est courbée.
+La cible est trop courte.
+La cible est trop courte.
+La bûche est cassée.
+La bûche est cassée.
+Le dé est corrompu.
+Le dé est corrompu.
+Impossible de trouver le tunnel.
+Impossible de trouver le tunnel.
+Effacer le bogue.
+Effacer le bogue.
+Le plateau est vide.
+Le plateau est vide.
+L'évier est sale.
+L'évier est sale.

@@ -1,0 +1,102 @@
+Le corbeille est trop étroit.
+Le corbeille est trop grand.
+J'ai trouvé un bogue.
+J'ai trouvé un bogue.
+Le plantage s'est produit à mi-hôte.
+Le plantage s'est produit au crépuscule.
+Il s'est arrêté cette matinée.
+Il s'est arrêté cette matinée.
+La clé est cassée.
+La clé est cassée.
+Le morceau est très mince.
+Le morceau est très mince.
+Appliquer le correctif ce soir.
+Appliquer le correctif ce soir.
+Ouvre le shell.
+Ouvre le shell.
+Vider la corbeille.
+Vider la corbeille.
+Le pare-feu a été détruit.
+Le pare-feu a été détruit.
+Le Web est énorme.
+Le Web est énorme.
+Afficher le flux.
+Afficher le flux.
+Vérifier le flux.
+Vérifier le flux.
+Le thread a été perdu.
+Le thread a été tracé.
+Ils ont trouvé le cache.
+Ils ont trouvé le cache.
+Le pilote est manquant.
+Le pilote est manquant.
+La courbe est cassée.
+La socket est cassée.
+La cible est détruite.
+La base de données est manquante.
+La prise en charge de la poignée de main a échoué.
+La saisie de la main a échoué.
+La passerelle est fermée.
+La porte est fermée.
+Le seau est plein.
+Le seau est plein.
+La socket est cassée.
+La socket est cassée.
+L'assistant vous guidera.
+L'assistant vous guidera.
+Le noyau est manquant.
+Le noyau est manquant.
+Vérifier la corbeille.
+Vérifie le contenu de la pile.
+Vérifiez le presse-papiers.
+Vérifiez le presse-papiers.
+J'ai perdu le signet.
+J'ai perdu le signet.
+Utiliser l'onglet.
+Afficher l'onglet.
+Vérifier le journal.
+Vérifier le journal.
+La pile est pleine.
+La pile est pleine.
+Le dossier est vide.
+Le spool est vide.
+L'assistant est ouvert.
+Le raccourci est ouvert.
+La boîte aux lettres est pleine.
+La boîte aux lettres est pleine.
+J'ai perdu le bâton.
+J'ai perdu le bâton.
+Modifie le fond d'écran.
+J'ai changé le fond d'écran.
+Le cadre est manquant.
+Le cadre est manquant.
+Le noyau est trop petit.
+Le noyau est trop petit.
+La grille est manquante.
+La grille est manquante.
+Les morceaux de pain ont disparu.
+Les morceaux de pain ont disparu.
+Le collecteur de déchets est occupé.
+Le collecteur de déchets est occupé.
+La cage est cassée.
+La mère est cassée.
+Le quai est vide.
+Le quai est vide.
+Le panneau de menu est trop petit.
+Le plate-forme est trop petit.
+La touche est courbée.
+La souris est courbée.
+La traduction est trop courte.
+L'emplacement est trop petit.
+Le ukulélé est cassé.
+Le beurre est brûlé.
+Le débogueur est corrompu.
+Le débit est corrompu.
+Impossible de trouver le pilote.
+Impossible de trouver le pilote.
+Effacer le corbeille.
+Effacer le corbeille.
+Le plateau est vide.
+Le plateau est vide.
+Le lavabo est sale.
+Le toit est sale.
